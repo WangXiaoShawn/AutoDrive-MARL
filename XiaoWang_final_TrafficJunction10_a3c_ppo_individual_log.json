@@ -1,0 +1,4920 @@
+{
+    "logs": [
+        {
+            "evaluation_average_reward": -92.60840000000002,
+            "global_steps": 7888
+        },
+        {
+            "evaluation_average_reward": -100.26480000000002,
+            "global_steps": 12118
+        },
+        {
+            "evaluation_average_reward": -105.96700000000003,
+            "global_steps": 17196
+        },
+        {
+            "evaluation_average_reward": -9.0672,
+            "global_steps": 21120
+        },
+        {
+            "evaluation_average_reward": -3.0824,
+            "global_steps": 25545
+        },
+        {
+            "evaluation_average_reward": -5.678200000000001,
+            "global_steps": 30743
+        },
+        {
+            "evaluation_average_reward": -6.466999999999999,
+            "global_steps": 35887
+        },
+        {
+            "evaluation_average_reward": -34.3984,
+            "global_steps": 41284
+        },
+        {
+            "evaluation_average_reward": -84.22240000000002,
+            "global_steps": 47088
+        },
+        {
+            "evaluation_average_reward": -123.74660000000003,
+            "global_steps": 51782
+        },
+        {
+            "evaluation_average_reward": -50.14919999999999,
+            "global_steps": 56590
+        },
+        {
+            "evaluation_average_reward": -78.9162,
+            "global_steps": 61272
+        },
+        {
+            "evaluation_average_reward": -138.48600000000002,
+            "global_steps": 67142
+        },
+        {
+            "evaluation_average_reward": -16.938,
+            "global_steps": 71800
+        },
+        {
+            "evaluation_average_reward": -11.6322,
+            "global_steps": 76215
+        },
+        {
+            "evaluation_average_reward": -31.585000000000008,
+            "global_steps": 80790
+        },
+        {
+            "evaluation_average_reward": -75.1658,
+            "global_steps": 86667
+        },
+        {
+            "evaluation_average_reward": -57.9088,
+            "global_steps": 91476
+        },
+        {
+            "evaluation_average_reward": -31.614800000000002,
+            "global_steps": 96104
+        },
+        {
+            "evaluation_average_reward": -5.876,
+            "global_steps": 101279
+        },
+        {
+            "evaluation_average_reward": -34.281800000000004,
+            "global_steps": 105830
+        },
+        {
+            "evaluation_average_reward": -41.692,
+            "global_steps": 111374
+        },
+        {
+            "evaluation_average_reward": -35.666399999999996,
+            "global_steps": 115758
+        },
+        {
+            "evaluation_average_reward": -3.3256,
+            "global_steps": 120922
+        },
+        {
+            "evaluation_average_reward": -51.489599999999996,
+            "global_steps": 126459
+        },
+        {
+            "evaluation_average_reward": -81.57759999999999,
+            "global_steps": 131528
+        },
+        {
+            "evaluation_average_reward": -13.518199999999998,
+            "global_steps": 135947
+        },
+        {
+            "evaluation_average_reward": -109.79900000000002,
+            "global_steps": 141761
+        },
+        {
+            "evaluation_average_reward": -85.256,
+            "global_steps": 146476
+        },
+        {
+            "evaluation_average_reward": -26.3774,
+            "global_steps": 151308
+        },
+        {
+            "evaluation_average_reward": -30.785199999999996,
+            "global_steps": 155985
+        },
+        {
+            "evaluation_average_reward": -24.5024,
+            "global_steps": 161855
+        },
+        {
+            "evaluation_average_reward": -115.55460000000005,
+            "global_steps": 166983
+        },
+        {
+            "evaluation_average_reward": -57.156000000000006,
+            "global_steps": 171705
+        },
+        {
+            "evaluation_average_reward": -44.07120000000001,
+            "global_steps": 176741
+        },
+        {
+            "evaluation_average_reward": -59.864,
+            "global_steps": 181588
+        },
+        {
+            "evaluation_average_reward": -122.98920000000001,
+            "global_steps": 186666
+        },
+        {
+            "evaluation_average_reward": -46.17360000000001,
+            "global_steps": 191715
+        },
+        {
+            "evaluation_average_reward": -39.6268,
+            "global_steps": 196478
+        },
+        {
+            "evaluation_average_reward": -69.4492,
+            "global_steps": 201260
+        },
+        {
+            "evaluation_average_reward": -4.7398,
+            "global_steps": 205645
+        },
+        {
+            "evaluation_average_reward": -22.606800000000003,
+            "global_steps": 211546
+        },
+        {
+            "evaluation_average_reward": -79.2206,
+            "global_steps": 216559
+        },
+        {
+            "evaluation_average_reward": -3.5520000000000005,
+            "global_steps": 220880
+        },
+        {
+            "evaluation_average_reward": -7.475200000000001,
+            "global_steps": 226191
+        },
+        {
+            "evaluation_average_reward": -81.81480000000002,
+            "global_steps": 231260
+        },
+        {
+            "evaluation_average_reward": -16.435,
+            "global_steps": 235885
+        },
+        {
+            "evaluation_average_reward": -75.8452,
+            "global_steps": 241638
+        },
+        {
+            "evaluation_average_reward": -34.5378,
+            "global_steps": 246195
+        },
+        {
+            "evaluation_average_reward": -40.3274,
+            "global_steps": 251194
+        },
+        {
+            "evaluation_average_reward": -44.1682,
+            "global_steps": 256393
+        },
+        {
+            "evaluation_average_reward": -21.541600000000003,
+            "global_steps": 260989
+        },
+        {
+            "evaluation_average_reward": -73.5808,
+            "global_steps": 266771
+        },
+        {
+            "evaluation_average_reward": -28.498399999999997,
+            "global_steps": 271481
+        },
+        {
+            "evaluation_average_reward": -42.17659999999999,
+            "global_steps": 275913
+        },
+        {
+            "evaluation_average_reward": -33.279799999999994,
+            "global_steps": 281516
+        },
+        {
+            "evaluation_average_reward": -54.4086,
+            "global_steps": 286363
+        },
+        {
+            "evaluation_average_reward": -71.55340000000001,
+            "global_steps": 291378
+        },
+        {
+            "evaluation_average_reward": -54.97700000000001,
+            "global_steps": 295709
+        },
+        {
+            "evaluation_average_reward": -39.3574,
+            "global_steps": 301870
+        },
+        {
+            "evaluation_average_reward": -11.590799999999998,
+            "global_steps": 306535
+        },
+        {
+            "evaluation_average_reward": -18.616000000000003,
+            "global_steps": 311315
+        },
+        {
+            "evaluation_average_reward": -59.061400000000006,
+            "global_steps": 316300
+        },
+        {
+            "evaluation_average_reward": -31.255000000000003,
+            "global_steps": 321470
+        },
+        {
+            "evaluation_average_reward": -34.806599999999996,
+            "global_steps": 326353
+        },
+        {
+            "evaluation_average_reward": -47.622800000000005,
+            "global_steps": 330922
+        },
+        {
+            "evaluation_average_reward": -54.9294,
+            "global_steps": 336912
+        },
+        {
+            "evaluation_average_reward": -56.88940000000001,
+            "global_steps": 342003
+        },
+        {
+            "evaluation_average_reward": -26.2846,
+            "global_steps": 345828
+        },
+        {
+            "evaluation_average_reward": -81.95840000000001,
+            "global_steps": 351652
+        },
+        {
+            "evaluation_average_reward": -20.8208,
+            "global_steps": 356439
+        },
+        {
+            "evaluation_average_reward": -30.1582,
+            "global_steps": 360983
+        },
+        {
+            "evaluation_average_reward": -11.335999999999999,
+            "global_steps": 366678
+        },
+        {
+            "evaluation_average_reward": -78.12480000000001,
+            "global_steps": 371410
+        },
+        {
+            "evaluation_average_reward": -23.117200000000004,
+            "global_steps": 375790
+        },
+        {
+            "evaluation_average_reward": -38.62480000000001,
+            "global_steps": 381714
+        },
+        {
+            "evaluation_average_reward": -100.42260000000002,
+            "global_steps": 386885
+        },
+        {
+            "evaluation_average_reward": -55.4876,
+            "global_steps": 391610
+        },
+        {
+            "evaluation_average_reward": -61.29580000000001,
+            "global_steps": 396484
+        },
+        {
+            "evaluation_average_reward": -48.7268,
+            "global_steps": 401395
+        },
+        {
+            "evaluation_average_reward": -88.09759999999999,
+            "global_steps": 405993
+        },
+        {
+            "evaluation_average_reward": -30.400600000000004,
+            "global_steps": 411458
+        },
+        {
+            "evaluation_average_reward": -91.13080000000001,
+            "global_steps": 416335
+        },
+        {
+            "evaluation_average_reward": -4.135,
+            "global_steps": 420734
+        },
+        {
+            "evaluation_average_reward": -36.8702,
+            "global_steps": 426500
+        },
+        {
+            "evaluation_average_reward": -79.6958,
+            "global_steps": 431770
+        },
+        {
+            "evaluation_average_reward": -73.40119999999999,
+            "global_steps": 437060
+        },
+        {
+            "evaluation_average_reward": -19.0608,
+            "global_steps": 440792
+        },
+        {
+            "evaluation_average_reward": -129.3356,
+            "global_steps": 446895
+        },
+        {
+            "evaluation_average_reward": -39.72419999999999,
+            "global_steps": 451362
+        },
+        {
+            "evaluation_average_reward": -4.651999999999999,
+            "global_steps": 455772
+        },
+        {
+            "evaluation_average_reward": -25.981799999999993,
+            "global_steps": 461058
+        },
+        {
+            "evaluation_average_reward": -24.5958,
+            "global_steps": 466316
+        },
+        {
+            "evaluation_average_reward": -64.1446,
+            "global_steps": 471247
+        },
+        {
+            "evaluation_average_reward": -18.364200000000004,
+            "global_steps": 476018
+        },
+        {
+            "evaluation_average_reward": -45.4668,
+            "global_steps": 481641
+        },
+        {
+            "evaluation_average_reward": -26.785000000000004,
+            "global_steps": 486187
+        },
+        {
+            "evaluation_average_reward": -55.35440000000001,
+            "global_steps": 491627
+        },
+        {
+            "evaluation_average_reward": -35.332600000000006,
+            "global_steps": 496455
+        },
+        {
+            "evaluation_average_reward": -12.844800000000001,
+            "global_steps": 501097
+        },
+        {
+            "evaluation_average_reward": -101.80180000000003,
+            "global_steps": 506583
+        },
+        {
+            "evaluation_average_reward": -23.2374,
+            "global_steps": 511649
+        },
+        {
+            "evaluation_average_reward": -38.306799999999996,
+            "global_steps": 516553
+        },
+        {
+            "evaluation_average_reward": -19.047,
+            "global_steps": 521523
+        },
+        {
+            "evaluation_average_reward": -4.590000000000001,
+            "global_steps": 525864
+        },
+        {
+            "evaluation_average_reward": -10.454600000000001,
+            "global_steps": 531423
+        },
+        {
+            "evaluation_average_reward": -57.68280000000001,
+            "global_steps": 536747
+        },
+        {
+            "evaluation_average_reward": -38.183,
+            "global_steps": 542287
+        },
+        {
+            "evaluation_average_reward": -35.7396,
+            "global_steps": 546094
+        },
+        {
+            "evaluation_average_reward": -3.5024,
+            "global_steps": 550591
+        },
+        {
+            "evaluation_average_reward": -3.0462000000000002,
+            "global_steps": 556097
+        },
+        {
+            "evaluation_average_reward": -31.4964,
+            "global_steps": 560891
+        },
+        {
+            "evaluation_average_reward": -54.69680000000001,
+            "global_steps": 567284
+        },
+        {
+            "evaluation_average_reward": -3.1800000000000006,
+            "global_steps": 570637
+        },
+        {
+            "evaluation_average_reward": -41.877199999999995,
+            "global_steps": 576852
+        },
+        {
+            "evaluation_average_reward": -69.05640000000002,
+            "global_steps": 581542
+        },
+        {
+            "evaluation_average_reward": -32.2076,
+            "global_steps": 586133
+        },
+        {
+            "evaluation_average_reward": -20.9212,
+            "global_steps": 591833
+        },
+        {
+            "evaluation_average_reward": -12.4358,
+            "global_steps": 596378
+        },
+        {
+            "evaluation_average_reward": -6.271,
+            "global_steps": 600706
+        },
+        {
+            "evaluation_average_reward": -73.9798,
+            "global_steps": 606340
+        },
+        {
+            "evaluation_average_reward": -9.2618,
+            "global_steps": 610869
+        },
+        {
+            "evaluation_average_reward": -20.423399999999997,
+            "global_steps": 616336
+        },
+        {
+            "evaluation_average_reward": -67.02640000000001,
+            "global_steps": 620949
+        },
+        {
+            "evaluation_average_reward": -5.448200000000001,
+            "global_steps": 626128
+        },
+        {
+            "evaluation_average_reward": -20.231,
+            "global_steps": 631750
+        },
+        {
+            "evaluation_average_reward": -81.22200000000001,
+            "global_steps": 636820
+        },
+        {
+            "evaluation_average_reward": -29.851200000000006,
+            "global_steps": 641380
+        },
+        {
+            "evaluation_average_reward": -45.923,
+            "global_steps": 645969
+        },
+        {
+            "evaluation_average_reward": -72.8218,
+            "global_steps": 651589
+        },
+        {
+            "evaluation_average_reward": -19.684800000000003,
+            "global_steps": 656379
+        },
+        {
+            "evaluation_average_reward": -25.096799999999995,
+            "global_steps": 660731
+        },
+        {
+            "evaluation_average_reward": -4.5762,
+            "global_steps": 665976
+        },
+        {
+            "evaluation_average_reward": -64.3356,
+            "global_steps": 671976
+        },
+        {
+            "evaluation_average_reward": -14.488999999999999,
+            "global_steps": 676625
+        },
+        {
+            "evaluation_average_reward": -19.3222,
+            "global_steps": 681380
+        },
+        {
+            "evaluation_average_reward": -12.7798,
+            "global_steps": 685877
+        },
+        {
+            "evaluation_average_reward": -5.949199999999999,
+            "global_steps": 690939
+        },
+        {
+            "evaluation_average_reward": -74.51,
+            "global_steps": 696683
+        },
+        {
+            "evaluation_average_reward": -32.1262,
+            "global_steps": 701395
+        },
+        {
+            "evaluation_average_reward": -28.128799999999995,
+            "global_steps": 705780
+        },
+        {
+            "evaluation_average_reward": -37.791399999999996,
+            "global_steps": 711579
+        },
+        {
+            "evaluation_average_reward": -19.686,
+            "global_steps": 716382
+        },
+        {
+            "evaluation_average_reward": -11.860600000000002,
+            "global_steps": 720888
+        },
+        {
+            "evaluation_average_reward": -40.559200000000004,
+            "global_steps": 726632
+        },
+        {
+            "evaluation_average_reward": -24.4056,
+            "global_steps": 731388
+        },
+        {
+            "evaluation_average_reward": -76.3514,
+            "global_steps": 736420
+        },
+        {
+            "evaluation_average_reward": -35.4498,
+            "global_steps": 741398
+        },
+        {
+            "evaluation_average_reward": -112.171,
+            "global_steps": 746429
+        },
+        {
+            "evaluation_average_reward": -80.34020000000001,
+            "global_steps": 751764
+        },
+        {
+            "evaluation_average_reward": -12.8844,
+            "global_steps": 756368
+        },
+        {
+            "evaluation_average_reward": -11.8462,
+            "global_steps": 761007
+        },
+        {
+            "evaluation_average_reward": -29.8,
+            "global_steps": 765762
+        },
+        {
+            "evaluation_average_reward": -71.86340000000001,
+            "global_steps": 771562
+        },
+        {
+            "evaluation_average_reward": -37.5168,
+            "global_steps": 775876
+        },
+        {
+            "evaluation_average_reward": -10.181000000000001,
+            "global_steps": 781299
+        },
+        {
+            "evaluation_average_reward": -23.768399999999996,
+            "global_steps": 785711
+        },
+        {
+            "evaluation_average_reward": -55.733399999999996,
+            "global_steps": 790939
+        },
+        {
+            "evaluation_average_reward": -36.3894,
+            "global_steps": 796636
+        },
+        {
+            "evaluation_average_reward": -40.0586,
+            "global_steps": 801411
+        },
+        {
+            "evaluation_average_reward": -76.29480000000001,
+            "global_steps": 806393
+        },
+        {
+            "evaluation_average_reward": -53.7028,
+            "global_steps": 810903
+        },
+        {
+            "evaluation_average_reward": -45.3928,
+            "global_steps": 816301
+        },
+        {
+            "evaluation_average_reward": -47.30839999999999,
+            "global_steps": 821147
+        },
+        {
+            "evaluation_average_reward": -20.803199999999997,
+            "global_steps": 826009
+        },
+        {
+            "evaluation_average_reward": -30.959400000000006,
+            "global_steps": 831698
+        },
+        {
+            "evaluation_average_reward": -4.632,
+            "global_steps": 835953
+        },
+        {
+            "evaluation_average_reward": -34.113200000000006,
+            "global_steps": 841785
+        },
+        {
+            "evaluation_average_reward": -23.4344,
+            "global_steps": 846633
+        },
+        {
+            "evaluation_average_reward": -30.8654,
+            "global_steps": 851152
+        },
+        {
+            "evaluation_average_reward": -56.1022,
+            "global_steps": 855942
+        },
+        {
+            "evaluation_average_reward": -57.699400000000004,
+            "global_steps": 861907
+        },
+        {
+            "evaluation_average_reward": -44.56500000000001,
+            "global_steps": 866794
+        },
+        {
+            "evaluation_average_reward": -35.3506,
+            "global_steps": 871108
+        },
+        {
+            "evaluation_average_reward": -26.838,
+            "global_steps": 875912
+        },
+        {
+            "evaluation_average_reward": -72.3506,
+            "global_steps": 881839
+        },
+        {
+            "evaluation_average_reward": -89.3026,
+            "global_steps": 886320
+        },
+        {
+            "evaluation_average_reward": -17.5664,
+            "global_steps": 890975
+        },
+        {
+            "evaluation_average_reward": -13.266399999999999,
+            "global_steps": 895646
+        },
+        {
+            "evaluation_average_reward": -3.2518000000000002,
+            "global_steps": 900753
+        },
+        {
+            "evaluation_average_reward": -33.5706,
+            "global_steps": 905823
+        },
+        {
+            "evaluation_average_reward": -37.7224,
+            "global_steps": 910783
+        },
+        {
+            "evaluation_average_reward": -56.400800000000004,
+            "global_steps": 916461
+        },
+        {
+            "evaluation_average_reward": -43.739000000000004,
+            "global_steps": 921280
+        },
+        {
+            "evaluation_average_reward": -29.943399999999997,
+            "global_steps": 926119
+        },
+        {
+            "evaluation_average_reward": -52.82980000000001,
+            "global_steps": 931621
+        },
+        {
+            "evaluation_average_reward": -20.3354,
+            "global_steps": 936234
+        },
+        {
+            "evaluation_average_reward": -13.2972,
+            "global_steps": 940766
+        },
+        {
+            "evaluation_average_reward": -15.711399999999998,
+            "global_steps": 946570
+        },
+        {
+            "evaluation_average_reward": -15.844,
+            "global_steps": 951236
+        },
+        {
+            "evaluation_average_reward": -80.30420000000001,
+            "global_steps": 956300
+        },
+        {
+            "evaluation_average_reward": -59.99680000000001,
+            "global_steps": 961442
+        },
+        {
+            "evaluation_average_reward": -2.7163999999999993,
+            "global_steps": 965473
+        },
+        {
+            "evaluation_average_reward": -38.9658,
+            "global_steps": 971167
+        },
+        {
+            "evaluation_average_reward": -28.7954,
+            "global_steps": 975658
+        },
+        {
+            "evaluation_average_reward": -11.636200000000002,
+            "global_steps": 980840
+        },
+        {
+            "evaluation_average_reward": -14.668000000000001,
+            "global_steps": 985822
+        },
+        {
+            "evaluation_average_reward": -37.1888,
+            "global_steps": 991027
+        },
+        {
+            "evaluation_average_reward": -37.114,
+            "global_steps": 996060
+        },
+        {
+            "evaluation_average_reward": -25.447,
+            "global_steps": 1001174
+        },
+        {
+            "evaluation_average_reward": -1.8963999999999999,
+            "global_steps": 1005462
+        },
+        {
+            "evaluation_average_reward": -49.3172,
+            "global_steps": 1011438
+        },
+        {
+            "evaluation_average_reward": -67.5506,
+            "global_steps": 1016043
+        },
+        {
+            "evaluation_average_reward": -41.50100000000001,
+            "global_steps": 1021249
+        },
+        {
+            "evaluation_average_reward": -33.0414,
+            "global_steps": 1025847
+        },
+        {
+            "evaluation_average_reward": -12.499400000000001,
+            "global_steps": 1030852
+        },
+        {
+            "evaluation_average_reward": -12.1656,
+            "global_steps": 1036068
+        },
+        {
+            "evaluation_average_reward": -92.56620000000001,
+            "global_steps": 1041146
+        },
+        {
+            "evaluation_average_reward": -51.963,
+            "global_steps": 1045879
+        },
+        {
+            "evaluation_average_reward": -42.654599999999995,
+            "global_steps": 1051474
+        },
+        {
+            "evaluation_average_reward": -15.295999999999996,
+            "global_steps": 1056095
+        },
+        {
+            "evaluation_average_reward": -11.750599999999999,
+            "global_steps": 1060683
+        },
+        {
+            "evaluation_average_reward": -48.102,
+            "global_steps": 1066747
+        },
+        {
+            "evaluation_average_reward": -50.6092,
+            "global_steps": 1070878
+        },
+        {
+            "evaluation_average_reward": -34.381400000000006,
+            "global_steps": 1075796
+        },
+        {
+            "evaluation_average_reward": -37.647000000000006,
+            "global_steps": 1081026
+        },
+        {
+            "evaluation_average_reward": -14.328599999999998,
+            "global_steps": 1085935
+        },
+        {
+            "evaluation_average_reward": -22.3542,
+            "global_steps": 1090634
+        },
+        {
+            "evaluation_average_reward": -29.150399999999998,
+            "global_steps": 1095637
+        },
+        {
+            "evaluation_average_reward": -27.98,
+            "global_steps": 1100589
+        },
+        {
+            "evaluation_average_reward": -35.27320000000001,
+            "global_steps": 1105987
+        },
+        {
+            "evaluation_average_reward": -28.4834,
+            "global_steps": 1110807
+        },
+        {
+            "evaluation_average_reward": -57.894600000000004,
+            "global_steps": 1116153
+        },
+        {
+            "evaluation_average_reward": -96.00160000000001,
+            "global_steps": 1121043
+        },
+        {
+            "evaluation_average_reward": -29.911400000000008,
+            "global_steps": 1125694
+        },
+        {
+            "evaluation_average_reward": -14.097399999999999,
+            "global_steps": 1130838
+        },
+        {
+            "evaluation_average_reward": -41.826800000000006,
+            "global_steps": 1135939
+        },
+        {
+            "evaluation_average_reward": -25.480200000000004,
+            "global_steps": 1140993
+        },
+        {
+            "evaluation_average_reward": -35.89919999999999,
+            "global_steps": 1146429
+        },
+        {
+            "evaluation_average_reward": -63.5874,
+            "global_steps": 1151314
+        },
+        {
+            "evaluation_average_reward": -4.1916,
+            "global_steps": 1155493
+        },
+        {
+            "evaluation_average_reward": -18.971799999999998,
+            "global_steps": 1160914
+        },
+        {
+            "evaluation_average_reward": -2.6298,
+            "global_steps": 1165684
+        },
+        {
+            "evaluation_average_reward": -32.1686,
+            "global_steps": 1170800
+        },
+        {
+            "evaluation_average_reward": -29.091400000000004,
+            "global_steps": 1176065
+        },
+        {
+            "evaluation_average_reward": -28.17780000000001,
+            "global_steps": 1180627
+        },
+        {
+            "evaluation_average_reward": -13.698199999999996,
+            "global_steps": 1185931
+        },
+        {
+            "evaluation_average_reward": -68.2446,
+            "global_steps": 1190982
+        },
+        {
+            "evaluation_average_reward": -19.332,
+            "global_steps": 1196003
+        },
+        {
+            "evaluation_average_reward": -54.29440000000001,
+            "global_steps": 1201347
+        },
+        {
+            "evaluation_average_reward": -10.3202,
+            "global_steps": 1205979
+        },
+        {
+            "evaluation_average_reward": -13.1544,
+            "global_steps": 1210690
+        },
+        {
+            "evaluation_average_reward": -2.0667999999999997,
+            "global_steps": 1215428
+        },
+        {
+            "evaluation_average_reward": -52.74500000000002,
+            "global_steps": 1220869
+        },
+        {
+            "evaluation_average_reward": -20.394600000000004,
+            "global_steps": 1226234
+        },
+        {
+            "evaluation_average_reward": -16.7432,
+            "global_steps": 1231061
+        },
+        {
+            "evaluation_average_reward": -14.013199999999998,
+            "global_steps": 1235915
+        },
+        {
+            "evaluation_average_reward": -4.529999999999999,
+            "global_steps": 1240619
+        },
+        {
+            "evaluation_average_reward": -5.8184000000000005,
+            "global_steps": 1245538
+        },
+        {
+            "evaluation_average_reward": -16.0578,
+            "global_steps": 1250852
+        },
+        {
+            "evaluation_average_reward": -53.775200000000005,
+            "global_steps": 1256037
+        },
+        {
+            "evaluation_average_reward": -43.9696,
+            "global_steps": 1260616
+        },
+        {
+            "evaluation_average_reward": -26.538200000000007,
+            "global_steps": 1265795
+        },
+        {
+            "evaluation_average_reward": -52.6158,
+            "global_steps": 1270907
+        },
+        {
+            "evaluation_average_reward": -18.3714,
+            "global_steps": 1276202
+        },
+        {
+            "evaluation_average_reward": -42.90920000000001,
+            "global_steps": 1281225
+        },
+        {
+            "evaluation_average_reward": -70.22720000000001,
+            "global_steps": 1285850
+        },
+        {
+            "evaluation_average_reward": -29.102600000000002,
+            "global_steps": 1290677
+        },
+        {
+            "evaluation_average_reward": -26.576999999999998,
+            "global_steps": 1295781
+        },
+        {
+            "evaluation_average_reward": -73.6008,
+            "global_steps": 1300981
+        },
+        {
+            "evaluation_average_reward": -33.7476,
+            "global_steps": 1305960
+        },
+        {
+            "evaluation_average_reward": -42.180600000000005,
+            "global_steps": 1311090
+        },
+        {
+            "evaluation_average_reward": -4.673399999999999,
+            "global_steps": 1315632
+        },
+        {
+            "evaluation_average_reward": -18.223599999999998,
+            "global_steps": 1320867
+        },
+        {
+            "evaluation_average_reward": -47.289800000000014,
+            "global_steps": 1325872
+        },
+        {
+            "evaluation_average_reward": -56.375000000000014,
+            "global_steps": 1331011
+        },
+        {
+            "evaluation_average_reward": -20.577199999999998,
+            "global_steps": 1335692
+        },
+        {
+            "evaluation_average_reward": -33.0012,
+            "global_steps": 1340907
+        },
+        {
+            "evaluation_average_reward": -61.191799999999986,
+            "global_steps": 1346390
+        },
+        {
+            "evaluation_average_reward": -13.215399999999999,
+            "global_steps": 1350914
+        },
+        {
+            "evaluation_average_reward": -28.769599999999997,
+            "global_steps": 1356397
+        },
+        {
+            "evaluation_average_reward": -73.7966,
+            "global_steps": 1361515
+        },
+        {
+            "evaluation_average_reward": -2.9383999999999997,
+            "global_steps": 1365577
+        },
+        {
+            "evaluation_average_reward": -70.2912,
+            "global_steps": 1371272
+        },
+        {
+            "evaluation_average_reward": -23.994400000000006,
+            "global_steps": 1375602
+        },
+        {
+            "evaluation_average_reward": -4.3436,
+            "global_steps": 1380464
+        },
+        {
+            "evaluation_average_reward": -32.8524,
+            "global_steps": 1385925
+        },
+        {
+            "evaluation_average_reward": -8.169799999999999,
+            "global_steps": 1390479
+        },
+        {
+            "evaluation_average_reward": -7.8519999999999985,
+            "global_steps": 1395726
+        },
+        {
+            "evaluation_average_reward": -3.9537999999999998,
+            "global_steps": 1400536
+        },
+        {
+            "evaluation_average_reward": -10.8674,
+            "global_steps": 1405763
+        },
+        {
+            "evaluation_average_reward": -43.14000000000001,
+            "global_steps": 1410774
+        },
+        {
+            "evaluation_average_reward": -101.28320000000002,
+            "global_steps": 1416543
+        },
+        {
+            "evaluation_average_reward": -38.479600000000005,
+            "global_steps": 1421128
+        },
+        {
+            "evaluation_average_reward": -7.554400000000001,
+            "global_steps": 1425552
+        },
+        {
+            "evaluation_average_reward": -111.4558,
+            "global_steps": 1431148
+        },
+        {
+            "evaluation_average_reward": -17.474800000000002,
+            "global_steps": 1435966
+        },
+        {
+            "evaluation_average_reward": -54.113800000000005,
+            "global_steps": 1441281
+        },
+        {
+            "evaluation_average_reward": -32.550200000000004,
+            "global_steps": 1445957
+        },
+        {
+            "evaluation_average_reward": -34.242,
+            "global_steps": 1451061
+        },
+        {
+            "evaluation_average_reward": -23.2098,
+            "global_steps": 1456300
+        },
+        {
+            "evaluation_average_reward": -76.357,
+            "global_steps": 1461397
+        },
+        {
+            "evaluation_average_reward": -3.0073999999999996,
+            "global_steps": 1465586
+        },
+        {
+            "evaluation_average_reward": -28.683200000000006,
+            "global_steps": 1470699
+        },
+        {
+            "evaluation_average_reward": -30.1364,
+            "global_steps": 1475828
+        },
+        {
+            "evaluation_average_reward": -10.8094,
+            "global_steps": 1480934
+        },
+        {
+            "evaluation_average_reward": -31.5836,
+            "global_steps": 1486038
+        },
+        {
+            "evaluation_average_reward": -51.1176,
+            "global_steps": 1491341
+        },
+        {
+            "evaluation_average_reward": -5.5806,
+            "global_steps": 1495631
+        },
+        {
+            "evaluation_average_reward": -21.9862,
+            "global_steps": 1501179
+        },
+        {
+            "evaluation_average_reward": -31.412,
+            "global_steps": 1506469
+        },
+        {
+            "evaluation_average_reward": -36.0012,
+            "global_steps": 1511049
+        },
+        {
+            "evaluation_average_reward": -8.007000000000001,
+            "global_steps": 1515584
+        },
+        {
+            "evaluation_average_reward": -28.594200000000008,
+            "global_steps": 1520909
+        },
+        {
+            "evaluation_average_reward": -6.9584,
+            "global_steps": 1525606
+        },
+        {
+            "evaluation_average_reward": -7.635599999999999,
+            "global_steps": 1530524
+        },
+        {
+            "evaluation_average_reward": -67.2826,
+            "global_steps": 1536149
+        },
+        {
+            "evaluation_average_reward": -35.727799999999995,
+            "global_steps": 1540959
+        },
+        {
+            "evaluation_average_reward": -19.2104,
+            "global_steps": 1546195
+        },
+        {
+            "evaluation_average_reward": -17.5288,
+            "global_steps": 1550720
+        },
+        {
+            "evaluation_average_reward": -12.416999999999998,
+            "global_steps": 1555652
+        },
+        {
+            "evaluation_average_reward": -56.592000000000006,
+            "global_steps": 1560903
+        },
+        {
+            "evaluation_average_reward": -11.6424,
+            "global_steps": 1565762
+        },
+        {
+            "evaluation_average_reward": -6.1372,
+            "global_steps": 1570650
+        },
+        {
+            "evaluation_average_reward": -48.8048,
+            "global_steps": 1576036
+        },
+        {
+            "evaluation_average_reward": -12.1354,
+            "global_steps": 1580615
+        },
+        {
+            "evaluation_average_reward": -6.6512,
+            "global_steps": 1585552
+        },
+        {
+            "evaluation_average_reward": -48.6714,
+            "global_steps": 1590879
+        },
+        {
+            "evaluation_average_reward": -31.474200000000003,
+            "global_steps": 1595857
+        },
+        {
+            "evaluation_average_reward": -16.6762,
+            "global_steps": 1600763
+        },
+        {
+            "evaluation_average_reward": -29.258200000000006,
+            "global_steps": 1605826
+        },
+        {
+            "evaluation_average_reward": -3.2537999999999996,
+            "global_steps": 1610663
+        },
+        {
+            "evaluation_average_reward": -11.767799999999998,
+            "global_steps": 1615888
+        },
+        {
+            "evaluation_average_reward": -84.494,
+            "global_steps": 1621599
+        },
+        {
+            "evaluation_average_reward": -11.7994,
+            "global_steps": 1625621
+        },
+        {
+            "evaluation_average_reward": -30.437400000000004,
+            "global_steps": 1630857
+        },
+        {
+            "evaluation_average_reward": -21.856,
+            "global_steps": 1636136
+        },
+        {
+            "evaluation_average_reward": -11.203400000000002,
+            "global_steps": 1640763
+        },
+        {
+            "evaluation_average_reward": -3.0146,
+            "global_steps": 1645433
+        },
+        {
+            "evaluation_average_reward": -8.538800000000002,
+            "global_steps": 1650786
+        },
+        {
+            "evaluation_average_reward": -34.7684,
+            "global_steps": 1655916
+        },
+        {
+            "evaluation_average_reward": -12.566199999999998,
+            "global_steps": 1660841
+        },
+        {
+            "evaluation_average_reward": -47.055600000000005,
+            "global_steps": 1666273
+        },
+        {
+            "evaluation_average_reward": -55.4624,
+            "global_steps": 1671041
+        },
+        {
+            "evaluation_average_reward": -6.3176,
+            "global_steps": 1675532
+        },
+        {
+            "evaluation_average_reward": -37.3288,
+            "global_steps": 1681051
+        },
+        {
+            "evaluation_average_reward": -9.5328,
+            "global_steps": 1685692
+        },
+        {
+            "evaluation_average_reward": -2.8044,
+            "global_steps": 1690656
+        },
+        {
+            "evaluation_average_reward": -50.952999999999996,
+            "global_steps": 1696658
+        },
+        {
+            "evaluation_average_reward": -50.3708,
+            "global_steps": 1701277
+        },
+        {
+            "evaluation_average_reward": -4.0894,
+            "global_steps": 1705655
+        },
+        {
+            "evaluation_average_reward": -3.3668,
+            "global_steps": 1710606
+        },
+        {
+            "evaluation_average_reward": -27.2426,
+            "global_steps": 1715746
+        },
+        {
+            "evaluation_average_reward": -42.3948,
+            "global_steps": 1721156
+        },
+        {
+            "evaluation_average_reward": -3.1190000000000007,
+            "global_steps": 1725423
+        },
+        {
+            "evaluation_average_reward": -15.250600000000002,
+            "global_steps": 1730967
+        },
+        {
+            "evaluation_average_reward": -33.8508,
+            "global_steps": 1735911
+        },
+        {
+            "evaluation_average_reward": -11.333200000000001,
+            "global_steps": 1740845
+        },
+        {
+            "evaluation_average_reward": -63.4816,
+            "global_steps": 1746417
+        },
+        {
+            "evaluation_average_reward": -30.8882,
+            "global_steps": 1750867
+        },
+        {
+            "evaluation_average_reward": -59.07120000000001,
+            "global_steps": 1756009
+        },
+        {
+            "evaluation_average_reward": -10.3104,
+            "global_steps": 1760736
+        },
+        {
+            "evaluation_average_reward": -38.53900000000001,
+            "global_steps": 1765981
+        },
+        {
+            "evaluation_average_reward": -25.4028,
+            "global_steps": 1771218
+        },
+        {
+            "evaluation_average_reward": -2.8066,
+            "global_steps": 1775464
+        },
+        {
+            "evaluation_average_reward": -27.3904,
+            "global_steps": 1780753
+        },
+        {
+            "evaluation_average_reward": -30.913400000000006,
+            "global_steps": 1785861
+        },
+        {
+            "evaluation_average_reward": -36.108200000000004,
+            "global_steps": 1790989
+        },
+        {
+            "evaluation_average_reward": -11.722399999999999,
+            "global_steps": 1795655
+        },
+        {
+            "evaluation_average_reward": -50.597,
+            "global_steps": 1800990
+        },
+        {
+            "evaluation_average_reward": -16.5044,
+            "global_steps": 1805887
+        },
+        {
+            "evaluation_average_reward": -35.867000000000004,
+            "global_steps": 1810618
+        },
+        {
+            "evaluation_average_reward": -4.530600000000001,
+            "global_steps": 1815815
+        },
+        {
+            "evaluation_average_reward": -14.3828,
+            "global_steps": 1820987
+        },
+        {
+            "evaluation_average_reward": -3.5943999999999994,
+            "global_steps": 1825668
+        },
+        {
+            "evaluation_average_reward": -14.6664,
+            "global_steps": 1830927
+        },
+        {
+            "evaluation_average_reward": -31.932600000000008,
+            "global_steps": 1836092
+        },
+        {
+            "evaluation_average_reward": -13.9686,
+            "global_steps": 1840965
+        },
+        {
+            "evaluation_average_reward": -36.1382,
+            "global_steps": 1846223
+        },
+        {
+            "evaluation_average_reward": -3.3995999999999995,
+            "global_steps": 1850670
+        },
+        {
+            "evaluation_average_reward": -46.711,
+            "global_steps": 1855816
+        },
+        {
+            "evaluation_average_reward": -18.8794,
+            "global_steps": 1861113
+        },
+        {
+            "evaluation_average_reward": -29.077400000000004,
+            "global_steps": 1865719
+        },
+        {
+            "evaluation_average_reward": -22.213800000000003,
+            "global_steps": 1870737
+        },
+        {
+            "evaluation_average_reward": -23.861399999999996,
+            "global_steps": 1875574
+        },
+        {
+            "evaluation_average_reward": -52.153,
+            "global_steps": 1881195
+        },
+        {
+            "evaluation_average_reward": -6.6786,
+            "global_steps": 1885666
+        },
+        {
+            "evaluation_average_reward": -30.206399999999995,
+            "global_steps": 1891004
+        },
+        {
+            "evaluation_average_reward": -10.406,
+            "global_steps": 1895594
+        },
+        {
+            "evaluation_average_reward": -15.581199999999999,
+            "global_steps": 1900930
+        },
+        {
+            "evaluation_average_reward": -17.204400000000003,
+            "global_steps": 1906072
+        },
+        {
+            "evaluation_average_reward": -47.550000000000004,
+            "global_steps": 1911044
+        },
+        {
+            "evaluation_average_reward": -29.22200000000001,
+            "global_steps": 1915789
+        },
+        {
+            "evaluation_average_reward": -27.691200000000002,
+            "global_steps": 1921077
+        },
+        {
+            "evaluation_average_reward": -57.19000000000002,
+            "global_steps": 1926149
+        },
+        {
+            "evaluation_average_reward": -16.4988,
+            "global_steps": 1931108
+        },
+        {
+            "evaluation_average_reward": -2.5711999999999997,
+            "global_steps": 1935625
+        },
+        {
+            "evaluation_average_reward": -9.5552,
+            "global_steps": 1940711
+        },
+        {
+            "evaluation_average_reward": -38.418400000000005,
+            "global_steps": 1946102
+        },
+        {
+            "evaluation_average_reward": -8.979800000000001,
+            "global_steps": 1950651
+        },
+        {
+            "evaluation_average_reward": -36.474199999999996,
+            "global_steps": 1956211
+        },
+        {
+            "evaluation_average_reward": -39.3224,
+            "global_steps": 1961243
+        },
+        {
+            "evaluation_average_reward": -12.600800000000001,
+            "global_steps": 1965711
+        },
+        {
+            "evaluation_average_reward": -3.6086000000000005,
+            "global_steps": 1970594
+        },
+        {
+            "evaluation_average_reward": -51.05800000000001,
+            "global_steps": 1976018
+        },
+        {
+            "evaluation_average_reward": -3.3506,
+            "global_steps": 1980439
+        },
+        {
+            "evaluation_average_reward": -32.1628,
+            "global_steps": 1985928
+        },
+        {
+            "evaluation_average_reward": -19.932,
+            "global_steps": 1991144
+        },
+        {
+            "evaluation_average_reward": -3.4968000000000004,
+            "global_steps": 1995520
+        },
+        {
+            "evaluation_average_reward": -5.8464,
+            "global_steps": 2000592
+        },
+        {
+            "evaluation_average_reward": -44.6058,
+            "global_steps": 2006304
+        },
+        {
+            "evaluation_average_reward": -35.09340000000001,
+            "global_steps": 2010918
+        },
+        {
+            "evaluation_average_reward": -3.6314,
+            "global_steps": 2015525
+        },
+        {
+            "evaluation_average_reward": -11.872800000000002,
+            "global_steps": 2020791
+        },
+        {
+            "evaluation_average_reward": -4.7652,
+            "global_steps": 2025476
+        },
+        {
+            "evaluation_average_reward": -44.135400000000004,
+            "global_steps": 2030943
+        },
+        {
+            "evaluation_average_reward": -43.0284,
+            "global_steps": 2035700
+        },
+        {
+            "evaluation_average_reward": -12.102799999999998,
+            "global_steps": 2040790
+        },
+        {
+            "evaluation_average_reward": -2.515,
+            "global_steps": 2045564
+        },
+        {
+            "evaluation_average_reward": -3.2944000000000004,
+            "global_steps": 2050576
+        },
+        {
+            "evaluation_average_reward": -2.5477999999999996,
+            "global_steps": 2055585
+        },
+        {
+            "evaluation_average_reward": -2.7228000000000003,
+            "global_steps": 2060529
+        },
+        {
+            "evaluation_average_reward": -11.943000000000001,
+            "global_steps": 2065679
+        },
+        {
+            "evaluation_average_reward": -25.752000000000002,
+            "global_steps": 2071413
+        },
+        {
+            "evaluation_average_reward": -24.12,
+            "global_steps": 2075590
+        },
+        {
+            "evaluation_average_reward": -7.991400000000001,
+            "global_steps": 2080672
+        },
+        {
+            "evaluation_average_reward": -36.651599999999995,
+            "global_steps": 2085997
+        },
+        {
+            "evaluation_average_reward": -31.455599999999997,
+            "global_steps": 2090727
+        },
+        {
+            "evaluation_average_reward": -57.550799999999995,
+            "global_steps": 2096108
+        },
+        {
+            "evaluation_average_reward": -29.418999999999993,
+            "global_steps": 2101003
+        },
+        {
+            "evaluation_average_reward": -37.324400000000004,
+            "global_steps": 2105974
+        },
+        {
+            "evaluation_average_reward": -63.047000000000004,
+            "global_steps": 2110798
+        },
+        {
+            "evaluation_average_reward": -48.7644,
+            "global_steps": 2115979
+        },
+        {
+            "evaluation_average_reward": -48.3188,
+            "global_steps": 2121416
+        },
+        {
+            "evaluation_average_reward": -3.2774,
+            "global_steps": 2125453
+        },
+        {
+            "evaluation_average_reward": -54.46900000000001,
+            "global_steps": 2131081
+        },
+        {
+            "evaluation_average_reward": -40.93240000000001,
+            "global_steps": 2135935
+        },
+        {
+            "evaluation_average_reward": -29.13300000000001,
+            "global_steps": 2140988
+        },
+        {
+            "evaluation_average_reward": -30.386600000000005,
+            "global_steps": 2145891
+        },
+        {
+            "evaluation_average_reward": -28.019800000000004,
+            "global_steps": 2150879
+        },
+        {
+            "evaluation_average_reward": -2.6448,
+            "global_steps": 2155631
+        },
+        {
+            "evaluation_average_reward": -3.4013999999999998,
+            "global_steps": 2160662
+        },
+        {
+            "evaluation_average_reward": -67.6616,
+            "global_steps": 2165706
+        },
+        {
+            "evaluation_average_reward": -4.7783999999999995,
+            "global_steps": 2170469
+        },
+        {
+            "evaluation_average_reward": -6.614999999999999,
+            "global_steps": 2175580
+        },
+        {
+            "evaluation_average_reward": -32.0198,
+            "global_steps": 2180989
+        },
+        {
+            "evaluation_average_reward": -37.6922,
+            "global_steps": 2186252
+        },
+        {
+            "evaluation_average_reward": -27.160999999999994,
+            "global_steps": 2191344
+        },
+        {
+            "evaluation_average_reward": -15.9138,
+            "global_steps": 2195741
+        },
+        {
+            "evaluation_average_reward": -32.2462,
+            "global_steps": 2201031
+        },
+        {
+            "evaluation_average_reward": -77.1034,
+            "global_steps": 2206048
+        },
+        {
+            "evaluation_average_reward": -15.180999999999997,
+            "global_steps": 2210820
+        },
+        {
+            "evaluation_average_reward": -3.6452,
+            "global_steps": 2215638
+        },
+        {
+            "evaluation_average_reward": -18.706400000000002,
+            "global_steps": 2221251
+        },
+        {
+            "evaluation_average_reward": -2.8293999999999997,
+            "global_steps": 2225538
+        },
+        {
+            "evaluation_average_reward": -10.736799999999999,
+            "global_steps": 2230834
+        },
+        {
+            "evaluation_average_reward": -9.51,
+            "global_steps": 2235613
+        },
+        {
+            "evaluation_average_reward": -24.703,
+            "global_steps": 2240655
+        },
+        {
+            "evaluation_average_reward": -43.792,
+            "global_steps": 2245679
+        },
+        {
+            "evaluation_average_reward": -19.606399999999997,
+            "global_steps": 2250463
+        },
+        {
+            "evaluation_average_reward": -4.1512,
+            "global_steps": 2255491
+        },
+        {
+            "evaluation_average_reward": -2.7038,
+            "global_steps": 2260422
+        },
+        {
+            "evaluation_average_reward": -32.6006,
+            "global_steps": 2266048
+        },
+        {
+            "evaluation_average_reward": -9.857,
+            "global_steps": 2270896
+        },
+        {
+            "evaluation_average_reward": -63.03059999999999,
+            "global_steps": 2276496
+        },
+        {
+            "evaluation_average_reward": -12.780800000000001,
+            "global_steps": 2280794
+        },
+        {
+            "evaluation_average_reward": -62.66220000000002,
+            "global_steps": 2285917
+        },
+        {
+            "evaluation_average_reward": -26.008199999999995,
+            "global_steps": 2290757
+        },
+        {
+            "evaluation_average_reward": -34.4282,
+            "global_steps": 2295944
+        },
+        {
+            "evaluation_average_reward": -78.44480000000001,
+            "global_steps": 2301252
+        },
+        {
+            "evaluation_average_reward": -10.648,
+            "global_steps": 2305775
+        },
+        {
+            "evaluation_average_reward": -2.4747999999999997,
+            "global_steps": 2310467
+        },
+        {
+            "evaluation_average_reward": -33.7834,
+            "global_steps": 2315901
+        },
+        {
+            "evaluation_average_reward": -63.63719999999999,
+            "global_steps": 2320864
+        },
+        {
+            "evaluation_average_reward": -6.124799999999999,
+            "global_steps": 2325538
+        },
+        {
+            "evaluation_average_reward": -4.6,
+            "global_steps": 2330624
+        },
+        {
+            "evaluation_average_reward": -2.2093999999999996,
+            "global_steps": 2335392
+        },
+        {
+            "evaluation_average_reward": -87.99,
+            "global_steps": 2340934
+        },
+        {
+            "evaluation_average_reward": -69.21960000000001,
+            "global_steps": 2345962
+        },
+        {
+            "evaluation_average_reward": -73.1816,
+            "global_steps": 2350885
+        },
+        {
+            "evaluation_average_reward": -53.19,
+            "global_steps": 2355880
+        },
+        {
+            "evaluation_average_reward": -22.654199999999996,
+            "global_steps": 2360575
+        },
+        {
+            "evaluation_average_reward": -38.3714,
+            "global_steps": 2366253
+        },
+        {
+            "evaluation_average_reward": -10.991,
+            "global_steps": 2370854
+        },
+        {
+            "evaluation_average_reward": -2.7217999999999996,
+            "global_steps": 2375565
+        },
+        {
+            "evaluation_average_reward": -57.3956,
+            "global_steps": 2381194
+        },
+        {
+            "evaluation_average_reward": -28.653400000000005,
+            "global_steps": 2385734
+        },
+        {
+            "evaluation_average_reward": -2.897,
+            "global_steps": 2390643
+        },
+        {
+            "evaluation_average_reward": -2.6521999999999997,
+            "global_steps": 2395462
+        },
+        {
+            "evaluation_average_reward": -63.996600000000015,
+            "global_steps": 2400834
+        },
+        {
+            "evaluation_average_reward": -21.7476,
+            "global_steps": 2405463
+        },
+        {
+            "evaluation_average_reward": -8.5928,
+            "global_steps": 2410638
+        },
+        {
+            "evaluation_average_reward": -60.13720000000001,
+            "global_steps": 2416077
+        },
+        {
+            "evaluation_average_reward": -68.65180000000001,
+            "global_steps": 2421092
+        },
+        {
+            "evaluation_average_reward": -3.7703999999999995,
+            "global_steps": 2425389
+        },
+        {
+            "evaluation_average_reward": -61.8024,
+            "global_steps": 2431175
+        },
+        {
+            "evaluation_average_reward": -7.1634,
+            "global_steps": 2435615
+        },
+        {
+            "evaluation_average_reward": -6.0098,
+            "global_steps": 2440557
+        },
+        {
+            "evaluation_average_reward": -19.1642,
+            "global_steps": 2445866
+        },
+        {
+            "evaluation_average_reward": -57.24819999999998,
+            "global_steps": 2451006
+        },
+        {
+            "evaluation_average_reward": -56.20300000000002,
+            "global_steps": 2455936
+        },
+        {
+            "evaluation_average_reward": -2.5456000000000003,
+            "global_steps": 2460548
+        },
+        {
+            "evaluation_average_reward": -10.2918,
+            "global_steps": 2465838
+        },
+        {
+            "evaluation_average_reward": -24.1054,
+            "global_steps": 2470595
+        },
+        {
+            "evaluation_average_reward": -11.430400000000002,
+            "global_steps": 2475877
+        },
+        {
+            "evaluation_average_reward": -44.520799999999994,
+            "global_steps": 2480629
+        },
+        {
+            "evaluation_average_reward": -77.2098,
+            "global_steps": 2486219
+        },
+        {
+            "evaluation_average_reward": -74.23600000000002,
+            "global_steps": 2490957
+        },
+        {
+            "evaluation_average_reward": -48.0434,
+            "global_steps": 2495821
+        },
+        {
+            "evaluation_average_reward": -11.476600000000001,
+            "global_steps": 2500719
+        },
+        {
+            "evaluation_average_reward": -64.0736,
+            "global_steps": 2506125
+        },
+        {
+            "evaluation_average_reward": -3.4758000000000004,
+            "global_steps": 2510506
+        },
+        {
+            "evaluation_average_reward": -22.88940000000001,
+            "global_steps": 2515800
+        },
+        {
+            "evaluation_average_reward": -5.6898,
+            "global_steps": 2520625
+        },
+        {
+            "evaluation_average_reward": -41.348400000000005,
+            "global_steps": 2526085
+        },
+        {
+            "evaluation_average_reward": -27.977200000000003,
+            "global_steps": 2530709
+        },
+        {
+            "evaluation_average_reward": -11.035400000000001,
+            "global_steps": 2535741
+        },
+        {
+            "evaluation_average_reward": -3.007,
+            "global_steps": 2540374
+        },
+        {
+            "evaluation_average_reward": -4.3888,
+            "global_steps": 2545576
+        },
+        {
+            "evaluation_average_reward": -63.479,
+            "global_steps": 2550873
+        },
+        {
+            "evaluation_average_reward": -11.218399999999999,
+            "global_steps": 2555693
+        },
+        {
+            "evaluation_average_reward": -27.686400000000003,
+            "global_steps": 2560832
+        },
+        {
+            "evaluation_average_reward": -2.029,
+            "global_steps": 2565504
+        },
+        {
+            "evaluation_average_reward": -3.4949999999999997,
+            "global_steps": 2570361
+        },
+        {
+            "evaluation_average_reward": -56.460800000000006,
+            "global_steps": 2576354
+        },
+        {
+            "evaluation_average_reward": -30.8454,
+            "global_steps": 2580945
+        },
+        {
+            "evaluation_average_reward": -11.895399999999999,
+            "global_steps": 2585744
+        },
+        {
+            "evaluation_average_reward": -56.941600000000015,
+            "global_steps": 2591403
+        },
+        {
+            "evaluation_average_reward": -29.235800000000005,
+            "global_steps": 2595891
+        },
+        {
+            "evaluation_average_reward": -11.965599999999998,
+            "global_steps": 2600764
+        },
+        {
+            "evaluation_average_reward": -36.0576,
+            "global_steps": 2606132
+        },
+        {
+            "evaluation_average_reward": -2.9198000000000004,
+            "global_steps": 2610554
+        },
+        {
+            "evaluation_average_reward": -2.5168,
+            "global_steps": 2615484
+        },
+        {
+            "evaluation_average_reward": -59.44680000000001,
+            "global_steps": 2621228
+        },
+        {
+            "evaluation_average_reward": -29.1214,
+            "global_steps": 2625796
+        },
+        {
+            "evaluation_average_reward": -4.7016,
+            "global_steps": 2630528
+        },
+        {
+            "evaluation_average_reward": -2.9532,
+            "global_steps": 2635544
+        },
+        {
+            "evaluation_average_reward": -31.656600000000005,
+            "global_steps": 2640873
+        },
+        {
+            "evaluation_average_reward": -85.66040000000001,
+            "global_steps": 2646350
+        },
+        {
+            "evaluation_average_reward": -2.376,
+            "global_steps": 2650486
+        },
+        {
+            "evaluation_average_reward": -3.5732,
+            "global_steps": 2655481
+        },
+        {
+            "evaluation_average_reward": -42.3986,
+            "global_steps": 2661020
+        },
+        {
+            "evaluation_average_reward": -12.5138,
+            "global_steps": 2665668
+        },
+        {
+            "evaluation_average_reward": -12.3156,
+            "global_steps": 2670960
+        },
+        {
+            "evaluation_average_reward": -26.3846,
+            "global_steps": 2675652
+        },
+        {
+            "evaluation_average_reward": -17.985000000000003,
+            "global_steps": 2681072
+        },
+        {
+            "evaluation_average_reward": -3.117,
+            "global_steps": 2685434
+        },
+        {
+            "evaluation_average_reward": -22.980799999999995,
+            "global_steps": 2690900
+        },
+        {
+            "evaluation_average_reward": -8.6182,
+            "global_steps": 2695693
+        },
+        {
+            "evaluation_average_reward": -7.2994,
+            "global_steps": 2700645
+        },
+        {
+            "evaluation_average_reward": -109.47259999999999,
+            "global_steps": 2706084
+        },
+        {
+            "evaluation_average_reward": -3.6176000000000004,
+            "global_steps": 2710463
+        },
+        {
+            "evaluation_average_reward": -33.232000000000006,
+            "global_steps": 2715869
+        },
+        {
+            "evaluation_average_reward": -17.8646,
+            "global_steps": 2721015
+        },
+        {
+            "evaluation_average_reward": -11.498399999999998,
+            "global_steps": 2725814
+        },
+        {
+            "evaluation_average_reward": -7.743599999999999,
+            "global_steps": 2730580
+        },
+        {
+            "evaluation_average_reward": -12.0494,
+            "global_steps": 2736009
+        },
+        {
+            "evaluation_average_reward": -66.91999999999999,
+            "global_steps": 2741097
+        },
+        {
+            "evaluation_average_reward": -46.900999999999996,
+            "global_steps": 2745843
+        },
+        {
+            "evaluation_average_reward": -24.83580000000001,
+            "global_steps": 2750709
+        },
+        {
+            "evaluation_average_reward": -31.013999999999992,
+            "global_steps": 2755582
+        },
+        {
+            "evaluation_average_reward": -28.6906,
+            "global_steps": 2760707
+        },
+        {
+            "evaluation_average_reward": -29.6476,
+            "global_steps": 2765752
+        },
+        {
+            "evaluation_average_reward": -2.478,
+            "global_steps": 2770405
+        },
+        {
+            "evaluation_average_reward": -6.598000000000001,
+            "global_steps": 2775626
+        },
+        {
+            "evaluation_average_reward": -4.872,
+            "global_steps": 2780621
+        },
+        {
+            "evaluation_average_reward": -36.648,
+            "global_steps": 2786146
+        },
+        {
+            "evaluation_average_reward": -61.71440000000001,
+            "global_steps": 2791114
+        },
+        {
+            "evaluation_average_reward": -79.815,
+            "global_steps": 2796255
+        },
+        {
+            "evaluation_average_reward": -13.287799999999999,
+            "global_steps": 2800880
+        },
+        {
+            "evaluation_average_reward": -30.610200000000003,
+            "global_steps": 2805952
+        },
+        {
+            "evaluation_average_reward": -44.8284,
+            "global_steps": 2811258
+        },
+        {
+            "evaluation_average_reward": -2.2766,
+            "global_steps": 2815516
+        },
+        {
+            "evaluation_average_reward": -11.8706,
+            "global_steps": 2820685
+        },
+        {
+            "evaluation_average_reward": -3.3880000000000003,
+            "global_steps": 2825686
+        },
+        {
+            "evaluation_average_reward": -22.8948,
+            "global_steps": 2830464
+        },
+        {
+            "evaluation_average_reward": -18.8906,
+            "global_steps": 2836030
+        },
+        {
+            "evaluation_average_reward": -25.144799999999996,
+            "global_steps": 2840505
+        },
+        {
+            "evaluation_average_reward": -25.9598,
+            "global_steps": 2845764
+        },
+        {
+            "evaluation_average_reward": -22.9924,
+            "global_steps": 2850544
+        },
+        {
+            "evaluation_average_reward": -7.983199999999999,
+            "global_steps": 2855673
+        },
+        {
+            "evaluation_average_reward": -9.6786,
+            "global_steps": 2860904
+        },
+        {
+            "evaluation_average_reward": -61.84260000000002,
+            "global_steps": 2865761
+        },
+        {
+            "evaluation_average_reward": -37.683,
+            "global_steps": 2871083
+        },
+        {
+            "evaluation_average_reward": -74.3242,
+            "global_steps": 2876291
+        },
+        {
+            "evaluation_average_reward": -21.535400000000003,
+            "global_steps": 2880922
+        },
+        {
+            "evaluation_average_reward": -4.7116,
+            "global_steps": 2885603
+        },
+        {
+            "evaluation_average_reward": -26.315000000000005,
+            "global_steps": 2890674
+        },
+        {
+            "evaluation_average_reward": -11.076199999999998,
+            "global_steps": 2895652
+        },
+        {
+            "evaluation_average_reward": -20.618199999999998,
+            "global_steps": 2900717
+        },
+        {
+            "evaluation_average_reward": -82.9302,
+            "global_steps": 2905861
+        },
+        {
+            "evaluation_average_reward": -41.2442,
+            "global_steps": 2910799
+        },
+        {
+            "evaluation_average_reward": -5.6884,
+            "global_steps": 2915425
+        },
+        {
+            "evaluation_average_reward": -56.5742,
+            "global_steps": 2921185
+        },
+        {
+            "evaluation_average_reward": -10.2454,
+            "global_steps": 2925810
+        },
+        {
+            "evaluation_average_reward": -8.5748,
+            "global_steps": 2930609
+        },
+        {
+            "evaluation_average_reward": -50.31580000000001,
+            "global_steps": 2935999
+        },
+        {
+            "evaluation_average_reward": -51.864,
+            "global_steps": 2940966
+        },
+        {
+            "evaluation_average_reward": -21.5216,
+            "global_steps": 2946126
+        },
+        {
+            "evaluation_average_reward": -13.327200000000001,
+            "global_steps": 2950788
+        },
+        {
+            "evaluation_average_reward": -33.084,
+            "global_steps": 2956420
+        },
+        {
+            "evaluation_average_reward": -2.4854,
+            "global_steps": 2960358
+        },
+        {
+            "evaluation_average_reward": -10.713799999999999,
+            "global_steps": 2965721
+        },
+        {
+            "evaluation_average_reward": -2.9272,
+            "global_steps": 2970400
+        },
+        {
+            "evaluation_average_reward": -7.328799999999999,
+            "global_steps": 2975492
+        },
+        {
+            "evaluation_average_reward": -29.633,
+            "global_steps": 2980630
+        },
+        {
+            "evaluation_average_reward": -34.1242,
+            "global_steps": 2985839
+        },
+        {
+            "evaluation_average_reward": -34.723200000000006,
+            "global_steps": 2990784
+        },
+        {
+            "evaluation_average_reward": -10.406200000000002,
+            "global_steps": 2995849
+        },
+        {
+            "evaluation_average_reward": -8.8222,
+            "global_steps": 3000697
+        },
+        {
+            "evaluation_average_reward": -28.952999999999996,
+            "global_steps": 3005842
+        },
+        {
+            "evaluation_average_reward": -2.9086,
+            "global_steps": 3010591
+        },
+        {
+            "evaluation_average_reward": -3.2174,
+            "global_steps": 3015767
+        },
+        {
+            "evaluation_average_reward": -45.61180000000001,
+            "global_steps": 3020834
+        },
+        {
+            "evaluation_average_reward": -2.8584000000000005,
+            "global_steps": 3025681
+        },
+        {
+            "evaluation_average_reward": -10.6414,
+            "global_steps": 3030876
+        },
+        {
+            "evaluation_average_reward": -41.6438,
+            "global_steps": 3035707
+        },
+        {
+            "evaluation_average_reward": -4.3664,
+            "global_steps": 3040518
+        },
+        {
+            "evaluation_average_reward": -4.1160000000000005,
+            "global_steps": 3045499
+        },
+        {
+            "evaluation_average_reward": -3.4837999999999996,
+            "global_steps": 3050632
+        },
+        {
+            "evaluation_average_reward": -46.395799999999994,
+            "global_steps": 3056407
+        },
+        {
+            "evaluation_average_reward": -19.1378,
+            "global_steps": 3060813
+        },
+        {
+            "evaluation_average_reward": -13.878799999999998,
+            "global_steps": 3065918
+        },
+        {
+            "evaluation_average_reward": -2.8175999999999997,
+            "global_steps": 3070541
+        },
+        {
+            "evaluation_average_reward": -2.1552,
+            "global_steps": 3075438
+        },
+        {
+            "evaluation_average_reward": -10.8798,
+            "global_steps": 3080666
+        },
+        {
+            "evaluation_average_reward": -2.6149999999999998,
+            "global_steps": 3085463
+        },
+        {
+            "evaluation_average_reward": -4.735799999999999,
+            "global_steps": 3090561
+        },
+        {
+            "evaluation_average_reward": -3.6913999999999993,
+            "global_steps": 3095400
+        },
+        {
+            "evaluation_average_reward": -62.9014,
+            "global_steps": 3100773
+        },
+        {
+            "evaluation_average_reward": -3.3806000000000003,
+            "global_steps": 3105581
+        },
+        {
+            "evaluation_average_reward": -16.3488,
+            "global_steps": 3110930
+        },
+        {
+            "evaluation_average_reward": -32.38680000000001,
+            "global_steps": 3115996
+        },
+        {
+            "evaluation_average_reward": -23.793799999999997,
+            "global_steps": 3120712
+        },
+        {
+            "evaluation_average_reward": -31.341,
+            "global_steps": 3125847
+        },
+        {
+            "evaluation_average_reward": -31.3256,
+            "global_steps": 3130818
+        },
+        {
+            "evaluation_average_reward": -5.716799999999999,
+            "global_steps": 3135469
+        },
+        {
+            "evaluation_average_reward": -3.2870000000000004,
+            "global_steps": 3140441
+        },
+        {
+            "evaluation_average_reward": -28.216600000000007,
+            "global_steps": 3145700
+        },
+        {
+            "evaluation_average_reward": -11.841800000000001,
+            "global_steps": 3150705
+        },
+        {
+            "evaluation_average_reward": -51.99580000000001,
+            "global_steps": 3155913
+        },
+        {
+            "evaluation_average_reward": -3.1606,
+            "global_steps": 3160555
+        },
+        {
+            "evaluation_average_reward": -10.8838,
+            "global_steps": 3165923
+        },
+        {
+            "evaluation_average_reward": -37.840199999999996,
+            "global_steps": 3171035
+        },
+        {
+            "evaluation_average_reward": -10.7606,
+            "global_steps": 3175896
+        },
+        {
+            "evaluation_average_reward": -48.6052,
+            "global_steps": 3181193
+        },
+        {
+            "evaluation_average_reward": -29.020000000000003,
+            "global_steps": 3186227
+        },
+        {
+            "evaluation_average_reward": -3.3242,
+            "global_steps": 3190429
+        },
+        {
+            "evaluation_average_reward": -17.795399999999997,
+            "global_steps": 3195845
+        },
+        {
+            "evaluation_average_reward": -14.589000000000004,
+            "global_steps": 3200933
+        },
+        {
+            "evaluation_average_reward": -2.3924,
+            "global_steps": 3205465
+        },
+        {
+            "evaluation_average_reward": -33.4752,
+            "global_steps": 3210991
+        },
+        {
+            "evaluation_average_reward": -24.666800000000002,
+            "global_steps": 3215496
+        },
+        {
+            "evaluation_average_reward": -8.184800000000001,
+            "global_steps": 3220776
+        },
+        {
+            "evaluation_average_reward": -27.163599999999995,
+            "global_steps": 3225670
+        },
+        {
+            "evaluation_average_reward": -13.623,
+            "global_steps": 3230757
+        },
+        {
+            "evaluation_average_reward": -4.4116,
+            "global_steps": 3235445
+        },
+        {
+            "evaluation_average_reward": -12.715,
+            "global_steps": 3240760
+        },
+        {
+            "evaluation_average_reward": -25.2376,
+            "global_steps": 3246267
+        },
+        {
+            "evaluation_average_reward": -47.5232,
+            "global_steps": 3251447
+        },
+        {
+            "evaluation_average_reward": -7.5506,
+            "global_steps": 3255645
+        },
+        {
+            "evaluation_average_reward": -11.3084,
+            "global_steps": 3260991
+        },
+        {
+            "evaluation_average_reward": -29.676600000000008,
+            "global_steps": 3265939
+        },
+        {
+            "evaluation_average_reward": -39.060199999999995,
+            "global_steps": 3270660
+        },
+        {
+            "evaluation_average_reward": -3.1109999999999998,
+            "global_steps": 3275436
+        },
+        {
+            "evaluation_average_reward": -11.5074,
+            "global_steps": 3280637
+        },
+        {
+            "evaluation_average_reward": -31.318599999999996,
+            "global_steps": 3285879
+        },
+        {
+            "evaluation_average_reward": -9.230199999999998,
+            "global_steps": 3290757
+        },
+        {
+            "evaluation_average_reward": -7.447,
+            "global_steps": 3295433
+        },
+        {
+            "evaluation_average_reward": -2.0183999999999997,
+            "global_steps": 3300449
+        },
+        {
+            "evaluation_average_reward": -55.382600000000004,
+            "global_steps": 3306050
+        },
+        {
+            "evaluation_average_reward": -5.5729999999999995,
+            "global_steps": 3310398
+        },
+        {
+            "evaluation_average_reward": -28.937000000000005,
+            "global_steps": 3315817
+        },
+        {
+            "evaluation_average_reward": -7.303400000000001,
+            "global_steps": 3320606
+        },
+        {
+            "evaluation_average_reward": -9.708400000000001,
+            "global_steps": 3325775
+        },
+        {
+            "evaluation_average_reward": -4.1054,
+            "global_steps": 3330400
+        },
+        {
+            "evaluation_average_reward": -24.479799999999997,
+            "global_steps": 3335791
+        },
+        {
+            "evaluation_average_reward": -15.665600000000001,
+            "global_steps": 3340758
+        },
+        {
+            "evaluation_average_reward": -30.365399999999994,
+            "global_steps": 3345668
+        },
+        {
+            "evaluation_average_reward": -8.5146,
+            "global_steps": 3350695
+        },
+        {
+            "evaluation_average_reward": -2.6336,
+            "global_steps": 3355391
+        },
+        {
+            "evaluation_average_reward": -23.4506,
+            "global_steps": 3360577
+        },
+        {
+            "evaluation_average_reward": -18.6228,
+            "global_steps": 3365963
+        },
+        {
+            "evaluation_average_reward": -2.4698,
+            "global_steps": 3370668
+        },
+        {
+            "evaluation_average_reward": -3.1391999999999998,
+            "global_steps": 3375330
+        },
+        {
+            "evaluation_average_reward": -71.9722,
+            "global_steps": 3380978
+        },
+        {
+            "evaluation_average_reward": -2.7082000000000006,
+            "global_steps": 3385550
+        },
+        {
+            "evaluation_average_reward": -19.1328,
+            "global_steps": 3390973
+        },
+        {
+            "evaluation_average_reward": -12.1894,
+            "global_steps": 3395846
+        },
+        {
+            "evaluation_average_reward": -29.523999999999994,
+            "global_steps": 3401317
+        },
+        {
+            "evaluation_average_reward": -40.67360000000001,
+            "global_steps": 3406282
+        },
+        {
+            "evaluation_average_reward": -2.2184,
+            "global_steps": 3410490
+        },
+        {
+            "evaluation_average_reward": -35.7158,
+            "global_steps": 3416043
+        },
+        {
+            "evaluation_average_reward": -12.7366,
+            "global_steps": 3421017
+        },
+        {
+            "evaluation_average_reward": -24.892799999999994,
+            "global_steps": 3425579
+        },
+        {
+            "evaluation_average_reward": -33.386,
+            "global_steps": 3431442
+        },
+        {
+            "evaluation_average_reward": -33.649,
+            "global_steps": 3435816
+        },
+        {
+            "evaluation_average_reward": -32.4862,
+            "global_steps": 3440938
+        },
+        {
+            "evaluation_average_reward": -3.6079999999999997,
+            "global_steps": 3445665
+        },
+        {
+            "evaluation_average_reward": -2.8988,
+            "global_steps": 3450376
+        },
+        {
+            "evaluation_average_reward": -12.2146,
+            "global_steps": 3455631
+        },
+        {
+            "evaluation_average_reward": -49.9168,
+            "global_steps": 3460806
+        },
+        {
+            "evaluation_average_reward": -14.944999999999999,
+            "global_steps": 3465996
+        },
+        {
+            "evaluation_average_reward": -12.95,
+            "global_steps": 3470645
+        },
+        {
+            "evaluation_average_reward": -29.6404,
+            "global_steps": 3476286
+        },
+        {
+            "evaluation_average_reward": -2.6508,
+            "global_steps": 3480606
+        },
+        {
+            "evaluation_average_reward": -28.8154,
+            "global_steps": 3486196
+        },
+        {
+            "evaluation_average_reward": -11.027799999999997,
+            "global_steps": 3490978
+        },
+        {
+            "evaluation_average_reward": -20.2862,
+            "global_steps": 3496208
+        },
+        {
+            "evaluation_average_reward": -2.0187999999999997,
+            "global_steps": 3500606
+        },
+        {
+            "evaluation_average_reward": -46.507999999999996,
+            "global_steps": 3505911
+        },
+        {
+            "evaluation_average_reward": -11.018199999999998,
+            "global_steps": 3510950
+        },
+        {
+            "evaluation_average_reward": -11.023799999999998,
+            "global_steps": 3515605
+        },
+        {
+            "evaluation_average_reward": -13.506599999999997,
+            "global_steps": 3520793
+        },
+        {
+            "evaluation_average_reward": -63.291399999999996,
+            "global_steps": 3525722
+        },
+        {
+            "evaluation_average_reward": -37.016999999999996,
+            "global_steps": 3530885
+        },
+        {
+            "evaluation_average_reward": -20.0462,
+            "global_steps": 3535560
+        },
+        {
+            "evaluation_average_reward": -44.717000000000006,
+            "global_steps": 3540779
+        },
+        {
+            "evaluation_average_reward": -54.750600000000006,
+            "global_steps": 3545936
+        },
+        {
+            "evaluation_average_reward": -10.627400000000002,
+            "global_steps": 3550772
+        },
+        {
+            "evaluation_average_reward": -10.0904,
+            "global_steps": 3555775
+        },
+        {
+            "evaluation_average_reward": -34.78980000000001,
+            "global_steps": 3560934
+        },
+        {
+            "evaluation_average_reward": -11.490799999999998,
+            "global_steps": 3565814
+        },
+        {
+            "evaluation_average_reward": -56.0844,
+            "global_steps": 3571064
+        },
+        {
+            "evaluation_average_reward": -28.918799999999997,
+            "global_steps": 3575648
+        },
+        {
+            "evaluation_average_reward": -80.177,
+            "global_steps": 3581230
+        },
+        {
+            "evaluation_average_reward": -58.7946,
+            "global_steps": 3586073
+        },
+        {
+            "evaluation_average_reward": -28.893,
+            "global_steps": 3590979
+        },
+        {
+            "evaluation_average_reward": -26.934199999999997,
+            "global_steps": 3596555
+        },
+        {
+            "evaluation_average_reward": -9.9966,
+            "global_steps": 3600779
+        },
+        {
+            "evaluation_average_reward": -12.382200000000001,
+            "global_steps": 3605998
+        },
+        {
+            "evaluation_average_reward": -28.96840000000001,
+            "global_steps": 3610720
+        },
+        {
+            "evaluation_average_reward": -11.9346,
+            "global_steps": 3615882
+        },
+        {
+            "evaluation_average_reward": -10.34,
+            "global_steps": 3620753
+        },
+        {
+            "evaluation_average_reward": -17.284200000000002,
+            "global_steps": 3625790
+        },
+        {
+            "evaluation_average_reward": -19.0822,
+            "global_steps": 3630928
+        },
+        {
+            "evaluation_average_reward": -56.17380000000001,
+            "global_steps": 3636106
+        },
+        {
+            "evaluation_average_reward": -33.77199999999999,
+            "global_steps": 3640862
+        },
+        {
+            "evaluation_average_reward": -11.394400000000001,
+            "global_steps": 3645659
+        },
+        {
+            "evaluation_average_reward": -37.914,
+            "global_steps": 3650975
+        },
+        {
+            "evaluation_average_reward": -21.0394,
+            "global_steps": 3655619
+        },
+        {
+            "evaluation_average_reward": -48.3296,
+            "global_steps": 3660884
+        },
+        {
+            "evaluation_average_reward": -5.522,
+            "global_steps": 3665608
+        },
+        {
+            "evaluation_average_reward": -46.866400000000006,
+            "global_steps": 3670845
+        },
+        {
+            "evaluation_average_reward": -36.103,
+            "global_steps": 3675721
+        },
+        {
+            "evaluation_average_reward": -59.580799999999996,
+            "global_steps": 3680637
+        },
+        {
+            "evaluation_average_reward": -19.022399999999998,
+            "global_steps": 3685577
+        },
+        {
+            "evaluation_average_reward": -12.6154,
+            "global_steps": 3690764
+        },
+        {
+            "evaluation_average_reward": -14.312999999999999,
+            "global_steps": 3695918
+        },
+        {
+            "evaluation_average_reward": -2.523,
+            "global_steps": 3700501
+        },
+        {
+            "evaluation_average_reward": -6.3162,
+            "global_steps": 3705636
+        },
+        {
+            "evaluation_average_reward": -2.649,
+            "global_steps": 3710663
+        },
+        {
+            "evaluation_average_reward": -53.767999999999994,
+            "global_steps": 3715815
+        },
+        {
+            "evaluation_average_reward": -3.222,
+            "global_steps": 3720416
+        },
+        {
+            "evaluation_average_reward": -5.1208,
+            "global_steps": 3725383
+        },
+        {
+            "evaluation_average_reward": -9.6286,
+            "global_steps": 3730495
+        },
+        {
+            "evaluation_average_reward": -57.7548,
+            "global_steps": 3735893
+        },
+        {
+            "evaluation_average_reward": -3.4269999999999996,
+            "global_steps": 3740507
+        },
+        {
+            "evaluation_average_reward": -6.054,
+            "global_steps": 3745566
+        },
+        {
+            "evaluation_average_reward": -2.5624,
+            "global_steps": 3750557
+        },
+        {
+            "evaluation_average_reward": -3.318,
+            "global_steps": 3755492
+        },
+        {
+            "evaluation_average_reward": -2.5045999999999995,
+            "global_steps": 3760426
+        },
+        {
+            "evaluation_average_reward": -18.5446,
+            "global_steps": 3766019
+        },
+        {
+            "evaluation_average_reward": -46.93759999999999,
+            "global_steps": 3771152
+        },
+        {
+            "evaluation_average_reward": -2.1155999999999997,
+            "global_steps": 3775478
+        },
+        {
+            "evaluation_average_reward": -25.799,
+            "global_steps": 3780717
+        },
+        {
+            "evaluation_average_reward": -27.224600000000002,
+            "global_steps": 3785860
+        },
+        {
+            "evaluation_average_reward": -37.31240000000001,
+            "global_steps": 3790977
+        },
+        {
+            "evaluation_average_reward": -2.3954,
+            "global_steps": 3795545
+        },
+        {
+            "evaluation_average_reward": -14.357799999999997,
+            "global_steps": 3800846
+        },
+        {
+            "evaluation_average_reward": -20.3848,
+            "global_steps": 3805799
+        },
+        {
+            "evaluation_average_reward": -2.313,
+            "global_steps": 3810326
+        },
+        {
+            "evaluation_average_reward": -7.302200000000001,
+            "global_steps": 3815679
+        },
+        {
+            "evaluation_average_reward": -2.6542,
+            "global_steps": 3820621
+        },
+        {
+            "evaluation_average_reward": -2.4375999999999998,
+            "global_steps": 3825462
+        },
+        {
+            "evaluation_average_reward": -3.1882000000000006,
+            "global_steps": 3830634
+        },
+        {
+            "evaluation_average_reward": -2.7338,
+            "global_steps": 3835594
+        },
+        {
+            "evaluation_average_reward": -3.5808,
+            "global_steps": 3840514
+        },
+        {
+            "evaluation_average_reward": -3.4548,
+            "global_steps": 3845624
+        },
+        {
+            "evaluation_average_reward": -1.2233999999999998,
+            "global_steps": 3850906
+        },
+        {
+            "evaluation_average_reward": -1.4311999999999998,
+            "global_steps": 3855476
+        },
+        {
+            "evaluation_average_reward": -17.7552,
+            "global_steps": 3860991
+        },
+        {
+            "evaluation_average_reward": -2.382,
+            "global_steps": 3865599
+        },
+        {
+            "evaluation_average_reward": -21.446800000000003,
+            "global_steps": 3870964
+        },
+        {
+            "evaluation_average_reward": -2.5336,
+            "global_steps": 3875601
+        },
+        {
+            "evaluation_average_reward": -2.9165999999999994,
+            "global_steps": 3880650
+        },
+        {
+            "evaluation_average_reward": -12.367799999999999,
+            "global_steps": 3885844
+        },
+        {
+            "evaluation_average_reward": -8.682399999999998,
+            "global_steps": 3890515
+        },
+        {
+            "evaluation_average_reward": -8.504600000000002,
+            "global_steps": 3895587
+        },
+        {
+            "evaluation_average_reward": -27.952000000000005,
+            "global_steps": 3900779
+        },
+        {
+            "evaluation_average_reward": -3.3714,
+            "global_steps": 3905670
+        },
+        {
+            "evaluation_average_reward": -40.737,
+            "global_steps": 3911222
+        },
+        {
+            "evaluation_average_reward": -32.979,
+            "global_steps": 3915971
+        },
+        {
+            "evaluation_average_reward": -50.58860000000001,
+            "global_steps": 3921015
+        },
+        {
+            "evaluation_average_reward": -7.3516,
+            "global_steps": 3925704
+        },
+        {
+            "evaluation_average_reward": -1.4591999999999998,
+            "global_steps": 3930617
+        },
+        {
+            "evaluation_average_reward": -17.0734,
+            "global_steps": 3935926
+        },
+        {
+            "evaluation_average_reward": -12.781199999999998,
+            "global_steps": 3940781
+        },
+        {
+            "evaluation_average_reward": -5.7936000000000005,
+            "global_steps": 3945670
+        },
+        {
+            "evaluation_average_reward": -3.0736,
+            "global_steps": 3950678
+        },
+        {
+            "evaluation_average_reward": -23.429000000000002,
+            "global_steps": 3955587
+        },
+        {
+            "evaluation_average_reward": -11.920600000000002,
+            "global_steps": 3960860
+        },
+        {
+            "evaluation_average_reward": -7.096000000000001,
+            "global_steps": 3965765
+        },
+        {
+            "evaluation_average_reward": -2.5227999999999997,
+            "global_steps": 3970557
+        },
+        {
+            "evaluation_average_reward": -45.8232,
+            "global_steps": 3975821
+        },
+        {
+            "evaluation_average_reward": -9.917999999999997,
+            "global_steps": 3980802
+        },
+        {
+            "evaluation_average_reward": -8.966600000000001,
+            "global_steps": 3985747
+        },
+        {
+            "evaluation_average_reward": -86.02060000000002,
+            "global_steps": 3991175
+        },
+        {
+            "evaluation_average_reward": -52.00940000000001,
+            "global_steps": 3995927
+        },
+        {
+            "evaluation_average_reward": -49.6246,
+            "global_steps": 4001242
+        },
+        {
+            "evaluation_average_reward": -84.0952,
+            "global_steps": 4005658
+        },
+        {
+            "evaluation_average_reward": -1.9855999999999998,
+            "global_steps": 4010570
+        },
+        {
+            "evaluation_average_reward": -30.270200000000006,
+            "global_steps": 4015750
+        },
+        {
+            "evaluation_average_reward": -30.8286,
+            "global_steps": 4020792
+        },
+        {
+            "evaluation_average_reward": -29.374000000000002,
+            "global_steps": 4026047
+        },
+        {
+            "evaluation_average_reward": -5.753399999999999,
+            "global_steps": 4030499
+        },
+        {
+            "evaluation_average_reward": -11.5626,
+            "global_steps": 4035761
+        },
+        {
+            "evaluation_average_reward": -3.3162,
+            "global_steps": 4040378
+        },
+        {
+            "evaluation_average_reward": -10.647400000000001,
+            "global_steps": 4045722
+        },
+        {
+            "evaluation_average_reward": -4.4628,
+            "global_steps": 4050493
+        },
+        {
+            "evaluation_average_reward": -52.3276,
+            "global_steps": 4055956
+        },
+        {
+            "evaluation_average_reward": -5.569400000000001,
+            "global_steps": 4060683
+        },
+        {
+            "evaluation_average_reward": -7.7542,
+            "global_steps": 4065548
+        },
+        {
+            "evaluation_average_reward": -1.8604000000000003,
+            "global_steps": 4070676
+        },
+        {
+            "evaluation_average_reward": -4.218999999999999,
+            "global_steps": 4075523
+        },
+        {
+            "evaluation_average_reward": -2.7662,
+            "global_steps": 4080508
+        },
+        {
+            "evaluation_average_reward": -43.9344,
+            "global_steps": 4085534
+        },
+        {
+            "evaluation_average_reward": -6.9685999999999995,
+            "global_steps": 4090601
+        },
+        {
+            "evaluation_average_reward": -23.2332,
+            "global_steps": 4095774
+        },
+        {
+            "evaluation_average_reward": -40.602000000000004,
+            "global_steps": 4100954
+        },
+        {
+            "evaluation_average_reward": -12.103800000000001,
+            "global_steps": 4105747
+        },
+        {
+            "evaluation_average_reward": -2.7678000000000003,
+            "global_steps": 4110663
+        },
+        {
+            "evaluation_average_reward": -3.333799999999999,
+            "global_steps": 4115589
+        },
+        {
+            "evaluation_average_reward": -28.6162,
+            "global_steps": 4121322
+        },
+        {
+            "evaluation_average_reward": -12.1814,
+            "global_steps": 4125790
+        },
+        {
+            "evaluation_average_reward": -11.736999999999998,
+            "global_steps": 4130799
+        },
+        {
+            "evaluation_average_reward": -4.1322,
+            "global_steps": 4135689
+        },
+        {
+            "evaluation_average_reward": -1.5702,
+            "global_steps": 4140596
+        },
+        {
+            "evaluation_average_reward": -36.545,
+            "global_steps": 4145857
+        },
+        {
+            "evaluation_average_reward": -20.805799999999998,
+            "global_steps": 4151012
+        },
+        {
+            "evaluation_average_reward": -10.950600000000001,
+            "global_steps": 4155812
+        },
+        {
+            "evaluation_average_reward": -3.9826,
+            "global_steps": 4160615
+        },
+        {
+            "evaluation_average_reward": -11.5714,
+            "global_steps": 4165781
+        },
+        {
+            "evaluation_average_reward": -10.8764,
+            "global_steps": 4170664
+        },
+        {
+            "evaluation_average_reward": -21.553399999999996,
+            "global_steps": 4176100
+        },
+        {
+            "evaluation_average_reward": -6.7134,
+            "global_steps": 4180795
+        },
+        {
+            "evaluation_average_reward": -2.3327999999999998,
+            "global_steps": 4185494
+        },
+        {
+            "evaluation_average_reward": -2.534,
+            "global_steps": 4190401
+        },
+        {
+            "evaluation_average_reward": -46.770399999999995,
+            "global_steps": 4195803
+        },
+        {
+            "evaluation_average_reward": -3.3188000000000004,
+            "global_steps": 4200400
+        },
+        {
+            "evaluation_average_reward": -32.428000000000004,
+            "global_steps": 4205929
+        },
+        {
+            "evaluation_average_reward": -30.158400000000007,
+            "global_steps": 4210936
+        },
+        {
+            "evaluation_average_reward": -2.932,
+            "global_steps": 4215364
+        },
+        {
+            "evaluation_average_reward": -20.2552,
+            "global_steps": 4220614
+        },
+        {
+            "evaluation_average_reward": -10.342600000000001,
+            "global_steps": 4225652
+        },
+        {
+            "evaluation_average_reward": -5.779,
+            "global_steps": 4230630
+        },
+        {
+            "evaluation_average_reward": -3.3228,
+            "global_steps": 4235524
+        },
+        {
+            "evaluation_average_reward": -23.327799999999993,
+            "global_steps": 4240651
+        },
+        {
+            "evaluation_average_reward": -3.947,
+            "global_steps": 4245492
+        },
+        {
+            "evaluation_average_reward": -4.3738,
+            "global_steps": 4250575
+        },
+        {
+            "evaluation_average_reward": -2.7643999999999997,
+            "global_steps": 4255494
+        },
+        {
+            "evaluation_average_reward": -2.7990000000000004,
+            "global_steps": 4260469
+        },
+        {
+            "evaluation_average_reward": -2.4387999999999996,
+            "global_steps": 4265466
+        },
+        {
+            "evaluation_average_reward": -3.3216,
+            "global_steps": 4270412
+        },
+        {
+            "evaluation_average_reward": -39.7616,
+            "global_steps": 4275975
+        },
+        {
+            "evaluation_average_reward": -46.81360000000001,
+            "global_steps": 4280760
+        },
+        {
+            "evaluation_average_reward": -36.689,
+            "global_steps": 4285912
+        },
+        {
+            "evaluation_average_reward": -3.742399999999999,
+            "global_steps": 4290483
+        },
+        {
+            "evaluation_average_reward": -3.4664,
+            "global_steps": 4295532
+        },
+        {
+            "evaluation_average_reward": -26.8524,
+            "global_steps": 4300558
+        },
+        {
+            "evaluation_average_reward": -3.4616,
+            "global_steps": 4305530
+        },
+        {
+            "evaluation_average_reward": -3.0176000000000003,
+            "global_steps": 4310377
+        },
+        {
+            "evaluation_average_reward": -25.195199999999996,
+            "global_steps": 4315684
+        },
+        {
+            "evaluation_average_reward": -55.70000000000001,
+            "global_steps": 4321157
+        },
+        {
+            "evaluation_average_reward": -3.5185999999999993,
+            "global_steps": 4325641
+        },
+        {
+            "evaluation_average_reward": -3.2946,
+            "global_steps": 4330625
+        },
+        {
+            "evaluation_average_reward": -2.5422,
+            "global_steps": 4335397
+        },
+        {
+            "evaluation_average_reward": -2.7894,
+            "global_steps": 4340522
+        },
+        {
+            "evaluation_average_reward": -13.091399999999998,
+            "global_steps": 4345906
+        },
+        {
+            "evaluation_average_reward": -2.5845999999999996,
+            "global_steps": 4350508
+        },
+        {
+            "evaluation_average_reward": -3.6816000000000004,
+            "global_steps": 4355470
+        },
+        {
+            "evaluation_average_reward": -28.564999999999998,
+            "global_steps": 4360806
+        },
+        {
+            "evaluation_average_reward": -20.4274,
+            "global_steps": 4366121
+        },
+        {
+            "evaluation_average_reward": -46.272800000000004,
+            "global_steps": 4370677
+        },
+        {
+            "evaluation_average_reward": -2.2702,
+            "global_steps": 4375646
+        },
+        {
+            "evaluation_average_reward": -2.5088,
+            "global_steps": 4380464
+        },
+        {
+            "evaluation_average_reward": -37.4628,
+            "global_steps": 4386049
+        },
+        {
+            "evaluation_average_reward": -2.6713999999999998,
+            "global_steps": 4390671
+        },
+        {
+            "evaluation_average_reward": -12.391,
+            "global_steps": 4395777
+        },
+        {
+            "evaluation_average_reward": -3.9934,
+            "global_steps": 4400390
+        },
+        {
+            "evaluation_average_reward": -11.704999999999998,
+            "global_steps": 4405718
+        },
+        {
+            "evaluation_average_reward": -15.747599999999997,
+            "global_steps": 4410759
+        },
+        {
+            "evaluation_average_reward": -3.7328,
+            "global_steps": 4415558
+        },
+        {
+            "evaluation_average_reward": -3.4518,
+            "global_steps": 4420549
+        },
+        {
+            "evaluation_average_reward": -2.9166,
+            "global_steps": 4425607
+        },
+        {
+            "evaluation_average_reward": -12.2998,
+            "global_steps": 4430690
+        },
+        {
+            "evaluation_average_reward": -47.5566,
+            "global_steps": 4435881
+        },
+        {
+            "evaluation_average_reward": -22.603600000000004,
+            "global_steps": 4440593
+        },
+        {
+            "evaluation_average_reward": -4.5292,
+            "global_steps": 4445669
+        },
+        {
+            "evaluation_average_reward": -3.6236000000000006,
+            "global_steps": 4450628
+        },
+        {
+            "evaluation_average_reward": -4.963199999999999,
+            "global_steps": 4455420
+        },
+        {
+            "evaluation_average_reward": -54.9736,
+            "global_steps": 4461058
+        },
+        {
+            "evaluation_average_reward": -74.50120000000001,
+            "global_steps": 4466124
+        },
+        {
+            "evaluation_average_reward": -60.70859999999999,
+            "global_steps": 4470729
+        },
+        {
+            "evaluation_average_reward": -2.2119999999999997,
+            "global_steps": 4475591
+        },
+        {
+            "evaluation_average_reward": -19.619400000000006,
+            "global_steps": 4480627
+        },
+        {
+            "evaluation_average_reward": -3.1428000000000003,
+            "global_steps": 4485494
+        },
+        {
+            "evaluation_average_reward": -3.0447999999999995,
+            "global_steps": 4490391
+        },
+        {
+            "evaluation_average_reward": -5.0396,
+            "global_steps": 4495418
+        },
+        {
+            "evaluation_average_reward": -13.149400000000004,
+            "global_steps": 4500970
+        },
+        {
+            "evaluation_average_reward": -28.1336,
+            "global_steps": 4505883
+        },
+        {
+            "evaluation_average_reward": -5.461799999999999,
+            "global_steps": 4510520
+        },
+        {
+            "evaluation_average_reward": -24.8206,
+            "global_steps": 4515695
+        },
+        {
+            "evaluation_average_reward": -2.7369999999999997,
+            "global_steps": 4520458
+        },
+        {
+            "evaluation_average_reward": -2.2914,
+            "global_steps": 4525410
+        },
+        {
+            "evaluation_average_reward": -6.4916,
+            "global_steps": 4530502
+        },
+        {
+            "evaluation_average_reward": -1.9642,
+            "global_steps": 4535424
+        },
+        {
+            "evaluation_average_reward": -8.219000000000001,
+            "global_steps": 4540649
+        },
+        {
+            "evaluation_average_reward": -39.875000000000014,
+            "global_steps": 4546213
+        },
+        {
+            "evaluation_average_reward": -40.9194,
+            "global_steps": 4550867
+        },
+        {
+            "evaluation_average_reward": -24.9816,
+            "global_steps": 4555617
+        },
+        {
+            "evaluation_average_reward": -47.059400000000004,
+            "global_steps": 4560614
+        },
+        {
+            "evaluation_average_reward": -21.906399999999998,
+            "global_steps": 4565506
+        },
+        {
+            "evaluation_average_reward": -35.8762,
+            "global_steps": 4570923
+        },
+        {
+            "evaluation_average_reward": -66.51939999999999,
+            "global_steps": 4575733
+        },
+        {
+            "evaluation_average_reward": -29.158000000000005,
+            "global_steps": 4580922
+        },
+        {
+            "evaluation_average_reward": -19.141000000000002,
+            "global_steps": 4585545
+        },
+        {
+            "evaluation_average_reward": -2.9269999999999996,
+            "global_steps": 4590563
+        },
+        {
+            "evaluation_average_reward": -2.8786,
+            "global_steps": 4595489
+        },
+        {
+            "evaluation_average_reward": -3.8480000000000003,
+            "global_steps": 4600537
+        },
+        {
+            "evaluation_average_reward": -2.8382,
+            "global_steps": 4605598
+        },
+        {
+            "evaluation_average_reward": -10.9448,
+            "global_steps": 4610622
+        },
+        {
+            "evaluation_average_reward": -53.62919999999999,
+            "global_steps": 4616065
+        },
+        {
+            "evaluation_average_reward": -12.770800000000001,
+            "global_steps": 4620920
+        },
+        {
+            "evaluation_average_reward": -3.5742,
+            "global_steps": 4625679
+        },
+        {
+            "evaluation_average_reward": -8.6432,
+            "global_steps": 4630494
+        },
+        {
+            "evaluation_average_reward": -3.4536000000000002,
+            "global_steps": 4635601
+        },
+        {
+            "evaluation_average_reward": -4.7425999999999995,
+            "global_steps": 4640631
+        },
+        {
+            "evaluation_average_reward": -3.4826,
+            "global_steps": 4645539
+        },
+        {
+            "evaluation_average_reward": -1.521,
+            "global_steps": 4650520
+        },
+        {
+            "evaluation_average_reward": -14.5936,
+            "global_steps": 4655917
+        },
+        {
+            "evaluation_average_reward": -1.8579999999999999,
+            "global_steps": 4660530
+        },
+        {
+            "evaluation_average_reward": -2.5848000000000004,
+            "global_steps": 4665629
+        },
+        {
+            "evaluation_average_reward": -29.627399999999994,
+            "global_steps": 4670616
+        },
+        {
+            "evaluation_average_reward": -28.7404,
+            "global_steps": 4675714
+        },
+        {
+            "evaluation_average_reward": -22.1864,
+            "global_steps": 4680897
+        },
+        {
+            "evaluation_average_reward": -7.550799999999998,
+            "global_steps": 4685602
+        },
+        {
+            "evaluation_average_reward": -5.680400000000001,
+            "global_steps": 4690698
+        },
+        {
+            "evaluation_average_reward": -3.4524,
+            "global_steps": 4695716
+        },
+        {
+            "evaluation_average_reward": -3.4568,
+            "global_steps": 4700633
+        },
+        {
+            "evaluation_average_reward": -2.1872,
+            "global_steps": 4705619
+        },
+        {
+            "evaluation_average_reward": -1.8477999999999994,
+            "global_steps": 4710551
+        },
+        {
+            "evaluation_average_reward": -6.676400000000001,
+            "global_steps": 4715629
+        },
+        {
+            "evaluation_average_reward": -3.6393999999999997,
+            "global_steps": 4720612
+        },
+        {
+            "evaluation_average_reward": -2.4989999999999997,
+            "global_steps": 4725581
+        },
+        {
+            "evaluation_average_reward": -27.2132,
+            "global_steps": 4730649
+        },
+        {
+            "evaluation_average_reward": -10.414,
+            "global_steps": 4735836
+        },
+        {
+            "evaluation_average_reward": -10.9194,
+            "global_steps": 4740741
+        },
+        {
+            "evaluation_average_reward": -9.906000000000002,
+            "global_steps": 4745667
+        },
+        {
+            "evaluation_average_reward": -38.769600000000004,
+            "global_steps": 4750952
+        },
+        {
+            "evaluation_average_reward": -36.159000000000006,
+            "global_steps": 4756043
+        },
+        {
+            "evaluation_average_reward": -11.226199999999999,
+            "global_steps": 4760682
+        },
+        {
+            "evaluation_average_reward": -18.515400000000003,
+            "global_steps": 4766158
+        },
+        {
+            "evaluation_average_reward": -6.5176,
+            "global_steps": 4770676
+        },
+        {
+            "evaluation_average_reward": -29.153600000000004,
+            "global_steps": 4775928
+        },
+        {
+            "evaluation_average_reward": -33.1862,
+            "global_steps": 4780767
+        },
+        {
+            "evaluation_average_reward": -3.7022000000000004,
+            "global_steps": 4785530
+        },
+        {
+            "evaluation_average_reward": -22.405,
+            "global_steps": 4790510
+        },
+        {
+            "evaluation_average_reward": -3.7808,
+            "global_steps": 4795477
+        },
+        {
+            "evaluation_average_reward": -49.26080000000001,
+            "global_steps": 4800743
+        },
+        {
+            "evaluation_average_reward": -30.005600000000005,
+            "global_steps": 4805693
+        },
+        {
+            "evaluation_average_reward": -4.0286,
+            "global_steps": 4810510
+        },
+        {
+            "evaluation_average_reward": -4.4764,
+            "global_steps": 4815474
+        },
+        {
+            "evaluation_average_reward": -33.229200000000006,
+            "global_steps": 4820846
+        },
+        {
+            "evaluation_average_reward": -21.661199999999997,
+            "global_steps": 4825606
+        },
+        {
+            "evaluation_average_reward": -42.05560000000001,
+            "global_steps": 4830794
+        },
+        {
+            "evaluation_average_reward": -31.368399999999998,
+            "global_steps": 4836017
+        },
+        {
+            "evaluation_average_reward": -12.684000000000001,
+            "global_steps": 4840646
+        },
+        {
+            "evaluation_average_reward": -8.9818,
+            "global_steps": 4845695
+        },
+        {
+            "evaluation_average_reward": -20.7216,
+            "global_steps": 4850366
+        },
+        {
+            "evaluation_average_reward": -12.7942,
+            "global_steps": 4855736
+        },
+        {
+            "evaluation_average_reward": -12.019,
+            "global_steps": 4860919
+        },
+        {
+            "evaluation_average_reward": -3.443,
+            "global_steps": 4865473
+        },
+        {
+            "evaluation_average_reward": -2.2508,
+            "global_steps": 4870527
+        },
+        {
+            "evaluation_average_reward": -53.912400000000005,
+            "global_steps": 4876066
+        },
+        {
+            "evaluation_average_reward": -50.220000000000006,
+            "global_steps": 4880760
+        },
+        {
+            "evaluation_average_reward": -13.218200000000001,
+            "global_steps": 4885664
+        },
+        {
+            "evaluation_average_reward": -33.5082,
+            "global_steps": 4891023
+        },
+        {
+            "evaluation_average_reward": -2.1208,
+            "global_steps": 4895380
+        },
+        {
+            "evaluation_average_reward": -11.724800000000002,
+            "global_steps": 4900625
+        },
+        {
+            "evaluation_average_reward": -2.1346,
+            "global_steps": 4905624
+        },
+        {
+            "evaluation_average_reward": -3.3616,
+            "global_steps": 4910640
+        },
+        {
+            "evaluation_average_reward": -5.9342,
+            "global_steps": 4915645
+        },
+        {
+            "evaluation_average_reward": -9.703199999999999,
+            "global_steps": 4920847
+        },
+        {
+            "evaluation_average_reward": -35.356399999999994,
+            "global_steps": 4925970
+        },
+        {
+            "evaluation_average_reward": -2.7032,
+            "global_steps": 4930704
+        },
+        {
+            "evaluation_average_reward": -2.6706000000000003,
+            "global_steps": 4935592
+        },
+        {
+            "evaluation_average_reward": -3.5542000000000002,
+            "global_steps": 4940453
+        },
+        {
+            "evaluation_average_reward": -8.4456,
+            "global_steps": 4945817
+        },
+        {
+            "evaluation_average_reward": -13.349400000000003,
+            "global_steps": 4950755
+        },
+        {
+            "evaluation_average_reward": -2.8543999999999996,
+            "global_steps": 4955642
+        },
+        {
+            "evaluation_average_reward": -3.4166000000000003,
+            "global_steps": 4960506
+        },
+        {
+            "evaluation_average_reward": -2.5788,
+            "global_steps": 4965662
+        },
+        {
+            "evaluation_average_reward": -3.8288,
+            "global_steps": 4970595
+        },
+        {
+            "evaluation_average_reward": -2.187,
+            "global_steps": 4975447
+        },
+        {
+            "evaluation_average_reward": -53.2278,
+            "global_steps": 4980908
+        },
+        {
+            "evaluation_average_reward": -1.6108,
+            "global_steps": 4985392
+        },
+        {
+            "evaluation_average_reward": -90.8082,
+            "global_steps": 4991114
+        },
+        {
+            "evaluation_average_reward": -18.8214,
+            "global_steps": 4996138
+        },
+        {
+            "evaluation_average_reward": -11.828399999999998,
+            "global_steps": 5000588
+        },
+        {
+            "evaluation_average_reward": -3.4849999999999994,
+            "global_steps": 5005438
+        },
+        {
+            "evaluation_average_reward": -2.0398,
+            "global_steps": 5010409
+        },
+        {
+            "evaluation_average_reward": -2.9938,
+            "global_steps": 5015457
+        },
+        {
+            "evaluation_average_reward": -12.0144,
+            "global_steps": 5020692
+        },
+        {
+            "evaluation_average_reward": -2.7716,
+            "global_steps": 5025403
+        },
+        {
+            "evaluation_average_reward": -19.6084,
+            "global_steps": 5031021
+        },
+        {
+            "evaluation_average_reward": -8.4986,
+            "global_steps": 5035526
+        },
+        {
+            "evaluation_average_reward": -3.7616,
+            "global_steps": 5040525
+        },
+        {
+            "evaluation_average_reward": -48.745799999999996,
+            "global_steps": 5045781
+        },
+        {
+            "evaluation_average_reward": -2.7880000000000003,
+            "global_steps": 5050514
+        },
+        {
+            "evaluation_average_reward": -5.589,
+            "global_steps": 5055643
+        },
+        {
+            "evaluation_average_reward": -13.0726,
+            "global_steps": 5060982
+        },
+        {
+            "evaluation_average_reward": -58.8942,
+            "global_steps": 5065934
+        },
+        {
+            "evaluation_average_reward": -1.5873999999999997,
+            "global_steps": 5070542
+        },
+        {
+            "evaluation_average_reward": -33.8634,
+            "global_steps": 5075870
+        },
+        {
+            "evaluation_average_reward": -3.8634,
+            "global_steps": 5080547
+        },
+        {
+            "evaluation_average_reward": -37.182399999999994,
+            "global_steps": 5085527
+        },
+        {
+            "evaluation_average_reward": -2.7703999999999995,
+            "global_steps": 5090411
+        },
+        {
+            "evaluation_average_reward": -2.8236,
+            "global_steps": 5095501
+        },
+        {
+            "evaluation_average_reward": -19.584600000000002,
+            "global_steps": 5100943
+        },
+        {
+            "evaluation_average_reward": -77.7746,
+            "global_steps": 5106029
+        },
+        {
+            "evaluation_average_reward": -34.800799999999995,
+            "global_steps": 5111216
+        },
+        {
+            "evaluation_average_reward": -9.233,
+            "global_steps": 5115907
+        },
+        {
+            "evaluation_average_reward": -13.461800000000002,
+            "global_steps": 5120738
+        },
+        {
+            "evaluation_average_reward": -25.3598,
+            "global_steps": 5125845
+        },
+        {
+            "evaluation_average_reward": -1.879,
+            "global_steps": 5130482
+        },
+        {
+            "evaluation_average_reward": -3.7445999999999997,
+            "global_steps": 5135545
+        },
+        {
+            "evaluation_average_reward": -54.55099999999999,
+            "global_steps": 5140923
+        },
+        {
+            "evaluation_average_reward": -52.649800000000006,
+            "global_steps": 5145855
+        },
+        {
+            "evaluation_average_reward": -2.2024,
+            "global_steps": 5150537
+        },
+        {
+            "evaluation_average_reward": -1.7464,
+            "global_steps": 5155591
+        },
+        {
+            "evaluation_average_reward": -8.2372,
+            "global_steps": 5160756
+        },
+        {
+            "evaluation_average_reward": -47.60700000000001,
+            "global_steps": 5165888
+        },
+        {
+            "evaluation_average_reward": -3.9311999999999996,
+            "global_steps": 5170499
+        },
+        {
+            "evaluation_average_reward": -46.85640000000001,
+            "global_steps": 5175734
+        },
+        {
+            "evaluation_average_reward": -2.8398000000000003,
+            "global_steps": 5180430
+        },
+        {
+            "evaluation_average_reward": -36.69400000000001,
+            "global_steps": 5185459
+        },
+        {
+            "evaluation_average_reward": -3.7694,
+            "global_steps": 5190477
+        },
+        {
+            "evaluation_average_reward": -38.5952,
+            "global_steps": 5195552
+        },
+        {
+            "evaluation_average_reward": -50.05380000000001,
+            "global_steps": 5200677
+        },
+        {
+            "evaluation_average_reward": -11.7148,
+            "global_steps": 5205758
+        },
+        {
+            "evaluation_average_reward": -11.350600000000002,
+            "global_steps": 5210907
+        },
+        {
+            "evaluation_average_reward": -18.9928,
+            "global_steps": 5216257
+        },
+        {
+            "evaluation_average_reward": -1.718,
+            "global_steps": 5220480
+        },
+        {
+            "evaluation_average_reward": -2.215,
+            "global_steps": 5225417
+        },
+        {
+            "evaluation_average_reward": -10.259800000000002,
+            "global_steps": 5230646
+        },
+        {
+            "evaluation_average_reward": -37.2476,
+            "global_steps": 5235830
+        },
+        {
+            "evaluation_average_reward": -66.7064,
+            "global_steps": 5241293
+        },
+        {
+            "evaluation_average_reward": -1.9489999999999998,
+            "global_steps": 5245593
+        },
+        {
+            "evaluation_average_reward": -3.412,
+            "global_steps": 5250548
+        },
+        {
+            "evaluation_average_reward": -36.0846,
+            "global_steps": 5256007
+        },
+        {
+            "evaluation_average_reward": -7.5268,
+            "global_steps": 5260518
+        },
+        {
+            "evaluation_average_reward": -2.683,
+            "global_steps": 5265414
+        },
+        {
+            "evaluation_average_reward": -2.2449999999999997,
+            "global_steps": 5270406
+        },
+        {
+            "evaluation_average_reward": -49.949600000000004,
+            "global_steps": 5276054
+        },
+        {
+            "evaluation_average_reward": -21.754800000000003,
+            "global_steps": 5280731
+        },
+        {
+            "evaluation_average_reward": -28.4098,
+            "global_steps": 5285683
+        },
+        {
+            "evaluation_average_reward": -33.9408,
+            "global_steps": 5291023
+        },
+        {
+            "evaluation_average_reward": -36.480999999999995,
+            "global_steps": 5296272
+        },
+        {
+            "evaluation_average_reward": -34.66560000000001,
+            "global_steps": 5300866
+        },
+        {
+            "evaluation_average_reward": -38.195600000000006,
+            "global_steps": 5306063
+        },
+        {
+            "evaluation_average_reward": -6.823,
+            "global_steps": 5310444
+        },
+        {
+            "evaluation_average_reward": -39.32040000000001,
+            "global_steps": 5316009
+        },
+        {
+            "evaluation_average_reward": -2.5433999999999997,
+            "global_steps": 5320631
+        },
+        {
+            "evaluation_average_reward": -11.352599999999999,
+            "global_steps": 5325873
+        },
+        {
+            "evaluation_average_reward": -2.3914,
+            "global_steps": 5330577
+        },
+        {
+            "evaluation_average_reward": -2.4674,
+            "global_steps": 5335708
+        },
+        {
+            "evaluation_average_reward": -2.883,
+            "global_steps": 5340497
+        },
+        {
+            "evaluation_average_reward": -25.554399999999998,
+            "global_steps": 5345591
+        },
+        {
+            "evaluation_average_reward": -2.4168,
+            "global_steps": 5350339
+        },
+        {
+            "evaluation_average_reward": -11.892800000000001,
+            "global_steps": 5355965
+        },
+        {
+            "evaluation_average_reward": -27.381999999999998,
+            "global_steps": 5360908
+        },
+        {
+            "evaluation_average_reward": -2.3449999999999998,
+            "global_steps": 5365573
+        },
+        {
+            "evaluation_average_reward": -82.4956,
+            "global_steps": 5370681
+        },
+        {
+            "evaluation_average_reward": -24.8946,
+            "global_steps": 5375832
+        },
+        {
+            "evaluation_average_reward": -3.54,
+            "global_steps": 5380466
+        },
+        {
+            "evaluation_average_reward": -4.421799999999999,
+            "global_steps": 5385406
+        },
+        {
+            "evaluation_average_reward": -2.6166,
+            "global_steps": 5390411
+        },
+        {
+            "evaluation_average_reward": -2.9080000000000004,
+            "global_steps": 5395390
+        },
+        {
+            "evaluation_average_reward": -35.60839999999999,
+            "global_steps": 5400563
+        },
+        {
+            "evaluation_average_reward": -30.926400000000008,
+            "global_steps": 5405997
+        },
+        {
+            "evaluation_average_reward": -3.0378,
+            "global_steps": 5410500
+        },
+        {
+            "evaluation_average_reward": -28.998999999999988,
+            "global_steps": 5415576
+        },
+        {
+            "evaluation_average_reward": -13.553999999999998,
+            "global_steps": 5420840
+        },
+        {
+            "evaluation_average_reward": -2.9763999999999995,
+            "global_steps": 5425426
+        },
+        {
+            "evaluation_average_reward": -38.84179999999999,
+            "global_steps": 5431086
+        },
+        {
+            "evaluation_average_reward": -11.3894,
+            "global_steps": 5435905
+        },
+        {
+            "evaluation_average_reward": -49.2922,
+            "global_steps": 5440788
+        },
+        {
+            "evaluation_average_reward": -25.943399999999997,
+            "global_steps": 5445912
+        },
+        {
+            "evaluation_average_reward": -2.8472,
+            "global_steps": 5450615
+        },
+        {
+            "evaluation_average_reward": -38.3968,
+            "global_steps": 5456100
+        },
+        {
+            "evaluation_average_reward": -2.8692,
+            "global_steps": 5460525
+        },
+        {
+            "evaluation_average_reward": -13.8894,
+            "global_steps": 5465671
+        },
+        {
+            "evaluation_average_reward": -10.1002,
+            "global_steps": 5470908
+        },
+        {
+            "evaluation_average_reward": -10.472399999999999,
+            "global_steps": 5475904
+        },
+        {
+            "evaluation_average_reward": -3.1646,
+            "global_steps": 5480486
+        },
+        {
+            "evaluation_average_reward": -4.5862,
+            "global_steps": 5485572
+        },
+        {
+            "evaluation_average_reward": -37.1166,
+            "global_steps": 5490582
+        },
+        {
+            "evaluation_average_reward": -21.2922,
+            "global_steps": 5495647
+        },
+        {
+            "evaluation_average_reward": -70.6462,
+            "global_steps": 5501101
+        },
+        {
+            "evaluation_average_reward": -2.854,
+            "global_steps": 5505441
+        },
+        {
+            "evaluation_average_reward": -1.982,
+            "global_steps": 5510446
+        },
+        {
+            "evaluation_average_reward": -30.0182,
+            "global_steps": 5515915
+        },
+        {
+            "evaluation_average_reward": -47.991200000000006,
+            "global_steps": 5520722
+        },
+        {
+            "evaluation_average_reward": -29.702800000000003,
+            "global_steps": 5525932
+        },
+        {
+            "evaluation_average_reward": -1.8321999999999998,
+            "global_steps": 5530559
+        },
+        {
+            "evaluation_average_reward": -1.8799999999999997,
+            "global_steps": 5535584
+        },
+        {
+            "evaluation_average_reward": -2.4746,
+            "global_steps": 5540483
+        },
+        {
+            "evaluation_average_reward": -2.653,
+            "global_steps": 5545490
+        },
+        {
+            "evaluation_average_reward": -2.1756,
+            "global_steps": 5550483
+        },
+        {
+            "evaluation_average_reward": -2.2889999999999997,
+            "global_steps": 5555510
+        },
+        {
+            "evaluation_average_reward": -4.630799999999999,
+            "global_steps": 5560480
+        },
+        {
+            "evaluation_average_reward": -2.8002000000000002,
+            "global_steps": 5565435
+        },
+        {
+            "evaluation_average_reward": -34.944399999999995,
+            "global_steps": 5571110
+        },
+        {
+            "evaluation_average_reward": -37.56699999999999,
+            "global_steps": 5576162
+        },
+        {
+            "evaluation_average_reward": -2.025,
+            "global_steps": 5580353
+        },
+        {
+            "evaluation_average_reward": -12.2042,
+            "global_steps": 5585849
+        },
+        {
+            "evaluation_average_reward": -20.3692,
+            "global_steps": 5591168
+        },
+        {
+            "evaluation_average_reward": -42.8786,
+            "global_steps": 5595945
+        },
+        {
+            "evaluation_average_reward": -30.031399999999998,
+            "global_steps": 5600757
+        },
+        {
+            "evaluation_average_reward": -11.909799999999999,
+            "global_steps": 5605942
+        },
+        {
+            "evaluation_average_reward": -11.1632,
+            "global_steps": 5610805
+        },
+        {
+            "evaluation_average_reward": -1.8014,
+            "global_steps": 5615666
+        },
+        {
+            "evaluation_average_reward": -2.6967999999999996,
+            "global_steps": 5620554
+        },
+        {
+            "evaluation_average_reward": -24.871400000000005,
+            "global_steps": 5625583
+        },
+        {
+            "evaluation_average_reward": -8.9234,
+            "global_steps": 5630779
+        },
+        {
+            "evaluation_average_reward": -24.865200000000005,
+            "global_steps": 5635672
+        },
+        {
+            "evaluation_average_reward": -38.651799999999994,
+            "global_steps": 5641113
+        },
+        {
+            "evaluation_average_reward": -10.6082,
+            "global_steps": 5645846
+        },
+        {
+            "evaluation_average_reward": -2.8396,
+            "global_steps": 5650360
+        },
+        {
+            "evaluation_average_reward": -13.6066,
+            "global_steps": 5655810
+        },
+        {
+            "evaluation_average_reward": -2.5060000000000002,
+            "global_steps": 5660447
+        },
+        {
+            "evaluation_average_reward": -2.8686000000000003,
+            "global_steps": 5665667
+        },
+        {
+            "evaluation_average_reward": -11.725599999999998,
+            "global_steps": 5670835
+        },
+        {
+            "evaluation_average_reward": -2.9199999999999995,
+            "global_steps": 5675518
+        },
+        {
+            "evaluation_average_reward": -11.810400000000001,
+            "global_steps": 5680714
+        },
+        {
+            "evaluation_average_reward": -30.409800000000008,
+            "global_steps": 5685727
+        },
+        {
+            "evaluation_average_reward": -38.0734,
+            "global_steps": 5691173
+        },
+        {
+            "evaluation_average_reward": -2.6747999999999994,
+            "global_steps": 5695547
+        },
+        {
+            "evaluation_average_reward": -50.52240000000001,
+            "global_steps": 5700893
+        },
+        {
+            "evaluation_average_reward": -38.5458,
+            "global_steps": 5706077
+        },
+        {
+            "evaluation_average_reward": -42.8098,
+            "global_steps": 5710855
+        },
+        {
+            "evaluation_average_reward": -13.405999999999997,
+            "global_steps": 5715858
+        },
+        {
+            "evaluation_average_reward": -47.3266,
+            "global_steps": 5720803
+        },
+        {
+            "evaluation_average_reward": -3.2741999999999996,
+            "global_steps": 5725426
+        },
+        {
+            "evaluation_average_reward": -35.1934,
+            "global_steps": 5730939
+        },
+        {
+            "evaluation_average_reward": -1.5295999999999998,
+            "global_steps": 5735559
+        },
+        {
+            "evaluation_average_reward": -47.7196,
+            "global_steps": 5740894
+        },
+        {
+            "evaluation_average_reward": -39.47339999999999,
+            "global_steps": 5745971
+        },
+        {
+            "evaluation_average_reward": -14.076799999999997,
+            "global_steps": 5750957
+        },
+        {
+            "evaluation_average_reward": -2.7958,
+            "global_steps": 5755675
+        },
+        {
+            "evaluation_average_reward": -2.0469999999999997,
+            "global_steps": 5760339
+        },
+        {
+            "evaluation_average_reward": -43.290800000000004,
+            "global_steps": 5765704
+        },
+        {
+            "evaluation_average_reward": -38.98100000000001,
+            "global_steps": 5771171
+        },
+        {
+            "evaluation_average_reward": -11.803799999999999,
+            "global_steps": 5775742
+        },
+        {
+            "evaluation_average_reward": -40.32959999999999,
+            "global_steps": 5780722
+        },
+        {
+            "evaluation_average_reward": -2.4776,
+            "global_steps": 5785667
+        },
+        {
+            "evaluation_average_reward": -2.2266,
+            "global_steps": 5790596
+        },
+        {
+            "evaluation_average_reward": -2.2532,
+            "global_steps": 5795611
+        },
+        {
+            "evaluation_average_reward": -30.377400000000005,
+            "global_steps": 5800820
+        },
+        {
+            "evaluation_average_reward": -8.485000000000001,
+            "global_steps": 5805567
+        },
+        {
+            "evaluation_average_reward": -35.24760000000001,
+            "global_steps": 5810740
+        },
+        {
+            "evaluation_average_reward": -2.7087999999999997,
+            "global_steps": 5815652
+        },
+        {
+            "evaluation_average_reward": -30.03140000000001,
+            "global_steps": 5820639
+        },
+        {
+            "evaluation_average_reward": -4.089799999999999,
+            "global_steps": 5825444
+        },
+        {
+            "evaluation_average_reward": -4.7096,
+            "global_steps": 5830389
+        },
+        {
+            "evaluation_average_reward": -3.5734000000000004,
+            "global_steps": 5835423
+        },
+        {
+            "evaluation_average_reward": -26.153,
+            "global_steps": 5840573
+        },
+        {
+            "evaluation_average_reward": -7.736599999999998,
+            "global_steps": 5845559
+        },
+        {
+            "evaluation_average_reward": -38.7094,
+            "global_steps": 5851175
+        },
+        {
+            "evaluation_average_reward": -12.2822,
+            "global_steps": 5855746
+        },
+        {
+            "evaluation_average_reward": -2.6678,
+            "global_steps": 5860639
+        },
+        {
+            "evaluation_average_reward": -12.635,
+            "global_steps": 5865770
+        },
+        {
+            "evaluation_average_reward": -3.9574,
+            "global_steps": 5870662
+        },
+        {
+            "evaluation_average_reward": -32.06080000000001,
+            "global_steps": 5875905
+        },
+        {
+            "evaluation_average_reward": -2.1584,
+            "global_steps": 5880555
+        },
+        {
+            "evaluation_average_reward": -4.8378,
+            "global_steps": 5885566
+        },
+        {
+            "evaluation_average_reward": -2.6094,
+            "global_steps": 5890384
+        },
+        {
+            "evaluation_average_reward": -3.4018,
+            "global_steps": 5895592
+        },
+        {
+            "evaluation_average_reward": -13.066400000000002,
+            "global_steps": 5900839
+        },
+        {
+            "evaluation_average_reward": -11.893199999999998,
+            "global_steps": 5905738
+        },
+        {
+            "evaluation_average_reward": -3.6942,
+            "global_steps": 5910386
+        },
+        {
+            "evaluation_average_reward": -3.8549999999999995,
+            "global_steps": 5915678
+        },
+        {
+            "evaluation_average_reward": -86.34840000000001,
+            "global_steps": 5921096
+        },
+        {
+            "evaluation_average_reward": -3.2434,
+            "global_steps": 5925410
+        },
+        {
+            "evaluation_average_reward": -12.717799999999999,
+            "global_steps": 5930731
+        },
+        {
+            "evaluation_average_reward": -22.685200000000002,
+            "global_steps": 5935429
+        },
+        {
+            "evaluation_average_reward": -1.7468,
+            "global_steps": 5940675
+        },
+        {
+            "evaluation_average_reward": -4.1136,
+            "global_steps": 5945622
+        },
+        {
+            "evaluation_average_reward": -54.549800000000005,
+            "global_steps": 5951107
+        },
+        {
+            "evaluation_average_reward": -25.851799999999997,
+            "global_steps": 5955832
+        },
+        {
+            "evaluation_average_reward": -24.3364,
+            "global_steps": 5960658
+        },
+        {
+            "evaluation_average_reward": -2.3851999999999998,
+            "global_steps": 5965562
+        },
+        {
+            "evaluation_average_reward": -2.3653999999999997,
+            "global_steps": 5970430
+        },
+        {
+            "evaluation_average_reward": -15.818400000000002,
+            "global_steps": 5975658
+        },
+        {
+            "evaluation_average_reward": -1.8785999999999998,
+            "global_steps": 5980389
+        },
+        {
+            "evaluation_average_reward": -12.5884,
+            "global_steps": 5985639
+        },
+        {
+            "evaluation_average_reward": -35.9966,
+            "global_steps": 5990808
+        },
+        {
+            "evaluation_average_reward": -10.859399999999999,
+            "global_steps": 5995657
+        },
+        {
+            "evaluation_average_reward": -13.4148,
+            "global_steps": 6000921
+        },
+        {
+            "evaluation_average_reward": -4.013800000000001,
+            "global_steps": 6005399
+        },
+        {
+            "evaluation_average_reward": -2.9484000000000004,
+            "global_steps": 6010657
+        },
+        {
+            "evaluation_average_reward": -28.8868,
+            "global_steps": 6015887
+        },
+        {
+            "evaluation_average_reward": -41.050999999999995,
+            "global_steps": 6020566
+        },
+        {
+            "evaluation_average_reward": -37.7848,
+            "global_steps": 6025994
+        },
+        {
+            "evaluation_average_reward": -6.502800000000001,
+            "global_steps": 6030635
+        },
+        {
+            "evaluation_average_reward": -30.1944,
+            "global_steps": 6035751
+        },
+        {
+            "evaluation_average_reward": -3.8015999999999996,
+            "global_steps": 6040573
+        },
+        {
+            "evaluation_average_reward": -63.12660000000001,
+            "global_steps": 6045669
+        },
+        {
+            "evaluation_average_reward": -4.3632,
+            "global_steps": 6050525
+        },
+        {
+            "evaluation_average_reward": -5.2652,
+            "global_steps": 6055538
+        },
+        {
+            "evaluation_average_reward": -3.5987999999999998,
+            "global_steps": 6060452
+        },
+        {
+            "evaluation_average_reward": -11.18,
+            "global_steps": 6065912
+        },
+        {
+            "evaluation_average_reward": -10.318200000000001,
+            "global_steps": 6070862
+        },
+        {
+            "evaluation_average_reward": -22.460600000000003,
+            "global_steps": 6075606
+        },
+        {
+            "evaluation_average_reward": -24.558799999999998,
+            "global_steps": 6080774
+        },
+        {
+            "evaluation_average_reward": -1.7646000000000002,
+            "global_steps": 6085398
+        },
+        {
+            "evaluation_average_reward": -30.486400000000003,
+            "global_steps": 6090663
+        },
+        {
+            "evaluation_average_reward": -20.292400000000004,
+            "global_steps": 6096205
+        },
+        {
+            "evaluation_average_reward": -2.9308,
+            "global_steps": 6100522
+        },
+        {
+            "evaluation_average_reward": -26.087,
+            "global_steps": 6105634
+        },
+        {
+            "evaluation_average_reward": -2.3617999999999997,
+            "global_steps": 6110556
+        },
+        {
+            "evaluation_average_reward": -4.186999999999999,
+            "global_steps": 6115547
+        },
+        {
+            "evaluation_average_reward": -2.8392000000000004,
+            "global_steps": 6120375
+        },
+        {
+            "evaluation_average_reward": -26.628400000000006,
+            "global_steps": 6125916
+        },
+        {
+            "evaluation_average_reward": -12.8214,
+            "global_steps": 6130812
+        },
+        {
+            "evaluation_average_reward": -30.648400000000002,
+            "global_steps": 6135993
+        },
+        {
+            "evaluation_average_reward": -11.237199999999998,
+            "global_steps": 6140731
+        },
+        {
+            "evaluation_average_reward": -2.7096,
+            "global_steps": 6145619
+        }
+    ]
+}
