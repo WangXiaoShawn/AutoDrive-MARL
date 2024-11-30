@@ -1,7 +1,8 @@
 # AutoDrive-MARL
 
 ## 🚀 Check our Awesome Demo
-[![Watch the Demo on YouTube](./assets/demo_video.gif)](https://www.youtube.com/watch?v=rLNVpfhCBMk)
+[![Click the image to watch the demo on YouTube](./assets/demo_video.gif)](https://www.youtube.com/watch?v=rLNVpfhCBMk)
+
 
 
 ## 🎯 Motivation
