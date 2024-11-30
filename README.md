@@ -2,7 +2,7 @@
 
 ## 🚀 Check our Awesome Demo
 
-👇 **Click the image above to watch the demo on YouTube!**
+👇 **Click the gif to watch the demo on YouTube!**
 
 
 [![Click the image to watch the demo on YouTube](./assets/demo_video.gif)](https://www.youtube.com/watch?v=rLNVpfhCBMk)
